@@ -1,0 +1,2990 @@
+[
+  {
+    "id": "sun_1th",
+    "text": "Sun in the 1 house influences life themes related to house 1, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Sun",
+      "house": "1",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "sun_2th",
+    "text": "Sun in the 2 house influences life themes related to house 2, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Sun",
+      "house": "2",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "sun_3th",
+    "text": "Sun in the 3 house influences life themes related to house 3, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Sun",
+      "house": "3",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "sun_4th",
+    "text": "Sun in the 4 house influences life themes related to house 4, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Sun",
+      "house": "4",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "sun_5th",
+    "text": "Sun in the 5 house influences life themes related to house 5, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Sun",
+      "house": "5",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "sun_6th",
+    "text": "Sun in the 6 house influences life themes related to house 6, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Sun",
+      "house": "6",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "sun_7th",
+    "text": "Sun in the 7 house influences life themes related to house 7, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Sun",
+      "house": "7",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "sun_8th",
+    "text": "Sun in the 8 house influences life themes related to house 8, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Sun",
+      "house": "8",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "sun_9th",
+    "text": "Sun in the 9 house influences life themes related to house 9, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Sun",
+      "house": "9",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "sun_10th",
+    "text": "Sun in the 10 house influences life themes related to house 10, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Sun",
+      "house": "10",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "sun_11th",
+    "text": "Sun in the 11 house influences life themes related to house 11, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Sun",
+      "house": "11",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "sun_12th",
+    "text": "Sun in the 12 house influences life themes related to house 12, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Sun",
+      "house": "12",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "moon_1th",
+    "text": "Moon in the 1 house influences life themes related to house 1, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Moon",
+      "house": "1",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "moon_2th",
+    "text": "Moon in the 2 house influences life themes related to house 2, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Moon",
+      "house": "2",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "moon_3th",
+    "text": "Moon in the 3 house influences life themes related to house 3, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Moon",
+      "house": "3",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "moon_4th",
+    "text": "Moon in the 4 house influences life themes related to house 4, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Moon",
+      "house": "4",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "moon_5th",
+    "text": "Moon in the 5 house influences life themes related to house 5, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Moon",
+      "house": "5",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "moon_6th",
+    "text": "Moon in the 6 house influences life themes related to house 6, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Moon",
+      "house": "6",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "moon_7th",
+    "text": "Moon in the 7 house influences life themes related to house 7, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Moon",
+      "house": "7",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "moon_8th",
+    "text": "Moon in the 8 house influences life themes related to house 8, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Moon",
+      "house": "8",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "moon_9th",
+    "text": "Moon in the 9 house influences life themes related to house 9, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Moon",
+      "house": "9",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "moon_10th",
+    "text": "Moon in the 10 house influences life themes related to house 10, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Moon",
+      "house": "10",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "moon_11th",
+    "text": "Moon in the 11 house influences life themes related to house 11, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Moon",
+      "house": "11",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "moon_12th",
+    "text": "Moon in the 12 house influences life themes related to house 12, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Moon",
+      "house": "12",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mars_1th",
+    "text": "Mars in the 1 house influences life themes related to house 1, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Mars",
+      "house": "1",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mars_2th",
+    "text": "Mars in the 2 house influences life themes related to house 2, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Mars",
+      "house": "2",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mars_3th",
+    "text": "Mars in the 3 house influences life themes related to house 3, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Mars",
+      "house": "3",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mars_4th",
+    "text": "Mars in the 4 house influences life themes related to house 4, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Mars",
+      "house": "4",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mars_5th",
+    "text": "Mars in the 5 house influences life themes related to house 5, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Mars",
+      "house": "5",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mars_6th",
+    "text": "Mars in the 6 house influences life themes related to house 6, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Mars",
+      "house": "6",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mars_7th",
+    "text": "Mars in the 7 house influences life themes related to house 7, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Mars",
+      "house": "7",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mars_8th",
+    "text": "Mars in the 8 house influences life themes related to house 8, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Mars",
+      "house": "8",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mars_9th",
+    "text": "Mars in the 9 house influences life themes related to house 9, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Mars",
+      "house": "9",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mars_10th",
+    "text": "Mars in the 10 house influences life themes related to house 10, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Mars",
+      "house": "10",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mars_11th",
+    "text": "Mars in the 11 house influences life themes related to house 11, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Mars",
+      "house": "11",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mars_12th",
+    "text": "Mars in the 12 house influences life themes related to house 12, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Mars",
+      "house": "12",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mercury_1th",
+    "text": "Mercury in the 1 house influences life themes related to house 1, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Mercury",
+      "house": "1",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mercury_2th",
+    "text": "Mercury in the 2 house influences life themes related to house 2, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Mercury",
+      "house": "2",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mercury_3th",
+    "text": "Mercury in the 3 house influences life themes related to house 3, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Mercury",
+      "house": "3",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mercury_4th",
+    "text": "Mercury in the 4 house influences life themes related to house 4, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Mercury",
+      "house": "4",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mercury_5th",
+    "text": "Mercury in the 5 house influences life themes related to house 5, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Mercury",
+      "house": "5",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mercury_6th",
+    "text": "Mercury in the 6 house influences life themes related to house 6, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Mercury",
+      "house": "6",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mercury_7th",
+    "text": "Mercury in the 7 house influences life themes related to house 7, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Mercury",
+      "house": "7",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mercury_8th",
+    "text": "Mercury in the 8 house influences life themes related to house 8, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Mercury",
+      "house": "8",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mercury_9th",
+    "text": "Mercury in the 9 house influences life themes related to house 9, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Mercury",
+      "house": "9",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mercury_10th",
+    "text": "Mercury in the 10 house influences life themes related to house 10, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Mercury",
+      "house": "10",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mercury_11th",
+    "text": "Mercury in the 11 house influences life themes related to house 11, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Mercury",
+      "house": "11",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mercury_12th",
+    "text": "Mercury in the 12 house influences life themes related to house 12, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Mercury",
+      "house": "12",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "jupiter_1th",
+    "text": "Jupiter in the 1 house influences life themes related to house 1, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Jupiter",
+      "house": "1",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "jupiter_2th",
+    "text": "Jupiter in the 2 house influences life themes related to house 2, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Jupiter",
+      "house": "2",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "jupiter_3th",
+    "text": "Jupiter in the 3 house influences life themes related to house 3, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Jupiter",
+      "house": "3",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "jupiter_4th",
+    "text": "Jupiter in the 4 house influences life themes related to house 4, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Jupiter",
+      "house": "4",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "jupiter_5th",
+    "text": "Jupiter in the 5 house influences life themes related to house 5, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Jupiter",
+      "house": "5",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "jupiter_6th",
+    "text": "Jupiter in the 6 house influences life themes related to house 6, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Jupiter",
+      "house": "6",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "jupiter_7th",
+    "text": "Jupiter in the 7 house influences life themes related to house 7, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Jupiter",
+      "house": "7",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "jupiter_8th",
+    "text": "Jupiter in the 8 house influences life themes related to house 8, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Jupiter",
+      "house": "8",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "jupiter_9th",
+    "text": "Jupiter in the 9 house influences life themes related to house 9, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Jupiter",
+      "house": "9",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "jupiter_10th",
+    "text": "Jupiter in the 10 house influences life themes related to house 10, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Jupiter",
+      "house": "10",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "jupiter_11th",
+    "text": "Jupiter in the 11 house influences life themes related to house 11, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Jupiter",
+      "house": "11",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "jupiter_12th",
+    "text": "Jupiter in the 12 house influences life themes related to house 12, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Jupiter",
+      "house": "12",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "venus_1th",
+    "text": "Venus in the 1 house influences life themes related to house 1, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Venus",
+      "house": "1",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "venus_2th",
+    "text": "Venus in the 2 house influences life themes related to house 2, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Venus",
+      "house": "2",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "venus_3th",
+    "text": "Venus in the 3 house influences life themes related to house 3, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Venus",
+      "house": "3",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "venus_4th",
+    "text": "Venus in the 4 house influences life themes related to house 4, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Venus",
+      "house": "4",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "venus_5th",
+    "text": "Venus in the 5 house influences life themes related to house 5, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Venus",
+      "house": "5",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "venus_6th",
+    "text": "Venus in the 6 house influences life themes related to house 6, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Venus",
+      "house": "6",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "venus_7th",
+    "text": "Venus in the 7 house influences life themes related to house 7, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Venus",
+      "house": "7",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "venus_8th",
+    "text": "Venus in the 8 house influences life themes related to house 8, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Venus",
+      "house": "8",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "venus_9th",
+    "text": "Venus in the 9 house influences life themes related to house 9, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Venus",
+      "house": "9",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "venus_10th",
+    "text": "Venus in the 10 house influences life themes related to house 10, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Venus",
+      "house": "10",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "venus_11th",
+    "text": "Venus in the 11 house influences life themes related to house 11, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Venus",
+      "house": "11",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "venus_12th",
+    "text": "Venus in the 12 house influences life themes related to house 12, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Venus",
+      "house": "12",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "saturn_1th",
+    "text": "Saturn in the 1 house influences life themes related to house 1, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Saturn",
+      "house": "1",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "saturn_2th",
+    "text": "Saturn in the 2 house influences life themes related to house 2, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Saturn",
+      "house": "2",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "saturn_3th",
+    "text": "Saturn in the 3 house influences life themes related to house 3, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Saturn",
+      "house": "3",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "saturn_4th",
+    "text": "Saturn in the 4 house influences life themes related to house 4, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Saturn",
+      "house": "4",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "saturn_5th",
+    "text": "Saturn in the 5 house influences life themes related to house 5, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Saturn",
+      "house": "5",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "saturn_6th",
+    "text": "Saturn in the 6 house influences life themes related to house 6, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Saturn",
+      "house": "6",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "saturn_7th",
+    "text": "Saturn in the 7 house influences life themes related to house 7, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Saturn",
+      "house": "7",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "saturn_8th",
+    "text": "Saturn in the 8 house influences life themes related to house 8, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Saturn",
+      "house": "8",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "saturn_9th",
+    "text": "Saturn in the 9 house influences life themes related to house 9, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Saturn",
+      "house": "9",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "saturn_10th",
+    "text": "Saturn in the 10 house influences life themes related to house 10, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Saturn",
+      "house": "10",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "saturn_11th",
+    "text": "Saturn in the 11 house influences life themes related to house 11, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Saturn",
+      "house": "11",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "saturn_12th",
+    "text": "Saturn in the 12 house influences life themes related to house 12, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Saturn",
+      "house": "12",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "rahu_1th",
+    "text": "Rahu in the 1 house influences life themes related to house 1, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Rahu",
+      "house": "1",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "rahu_2th",
+    "text": "Rahu in the 2 house influences life themes related to house 2, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Rahu",
+      "house": "2",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "rahu_3th",
+    "text": "Rahu in the 3 house influences life themes related to house 3, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Rahu",
+      "house": "3",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "rahu_4th",
+    "text": "Rahu in the 4 house influences life themes related to house 4, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Rahu",
+      "house": "4",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "rahu_5th",
+    "text": "Rahu in the 5 house influences life themes related to house 5, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Rahu",
+      "house": "5",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "rahu_6th",
+    "text": "Rahu in the 6 house influences life themes related to house 6, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Rahu",
+      "house": "6",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "rahu_7th",
+    "text": "Rahu in the 7 house influences life themes related to house 7, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Rahu",
+      "house": "7",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "rahu_8th",
+    "text": "Rahu in the 8 house influences life themes related to house 8, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Rahu",
+      "house": "8",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "rahu_9th",
+    "text": "Rahu in the 9 house influences life themes related to house 9, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Rahu",
+      "house": "9",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "rahu_10th",
+    "text": "Rahu in the 10 house influences life themes related to house 10, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Rahu",
+      "house": "10",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "rahu_11th",
+    "text": "Rahu in the 11 house influences life themes related to house 11, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Rahu",
+      "house": "11",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "rahu_12th",
+    "text": "Rahu in the 12 house influences life themes related to house 12, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Rahu",
+      "house": "12",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "ketu_1th",
+    "text": "Ketu in the 1 house influences life themes related to house 1, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Ketu",
+      "house": "1",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "ketu_2th",
+    "text": "Ketu in the 2 house influences life themes related to house 2, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Ketu",
+      "house": "2",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "ketu_3th",
+    "text": "Ketu in the 3 house influences life themes related to house 3, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Ketu",
+      "house": "3",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "ketu_4th",
+    "text": "Ketu in the 4 house influences life themes related to house 4, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Ketu",
+      "house": "4",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "ketu_5th",
+    "text": "Ketu in the 5 house influences life themes related to house 5, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Ketu",
+      "house": "5",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "ketu_6th",
+    "text": "Ketu in the 6 house influences life themes related to house 6, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Ketu",
+      "house": "6",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "ketu_7th",
+    "text": "Ketu in the 7 house influences life themes related to house 7, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Ketu",
+      "house": "7",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "ketu_8th",
+    "text": "Ketu in the 8 house influences life themes related to house 8, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Ketu",
+      "house": "8",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "ketu_9th",
+    "text": "Ketu in the 9 house influences life themes related to house 9, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Ketu",
+      "house": "9",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "ketu_10th",
+    "text": "Ketu in the 10 house influences life themes related to house 10, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Ketu",
+      "house": "10",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "ketu_11th",
+    "text": "Ketu in the 11 house influences life themes related to house 11, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Ketu",
+      "house": "11",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "ketu_12th",
+    "text": "Ketu in the 12 house influences life themes related to house 12, bringing characteristic effects based on its nature.",
+    "metadata": {
+      "planet": "Ketu",
+      "house": "12",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "sun_aries",
+    "text": "Sun in Aries expresses its energy through the traits of Aries, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Sun",
+      "sign": "Aries",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "sun_taurus",
+    "text": "Sun in Taurus expresses its energy through the traits of Taurus, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Sun",
+      "sign": "Taurus",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "sun_gemini",
+    "text": "Sun in Gemini expresses its energy through the traits of Gemini, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Sun",
+      "sign": "Gemini",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "sun_cancer",
+    "text": "Sun in Cancer expresses its energy through the traits of Cancer, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Sun",
+      "sign": "Cancer",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "sun_leo",
+    "text": "Sun in Leo expresses its energy through the traits of Leo, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Sun",
+      "sign": "Leo",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "sun_virgo",
+    "text": "Sun in Virgo expresses its energy through the traits of Virgo, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Sun",
+      "sign": "Virgo",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "sun_libra",
+    "text": "Sun in Libra expresses its energy through the traits of Libra, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Sun",
+      "sign": "Libra",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "sun_scorpio",
+    "text": "Sun in Scorpio expresses its energy through the traits of Scorpio, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Sun",
+      "sign": "Scorpio",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "sun_sagittarius",
+    "text": "Sun in Sagittarius expresses its energy through the traits of Sagittarius, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Sun",
+      "sign": "Sagittarius",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "sun_capricorn",
+    "text": "Sun in Capricorn expresses its energy through the traits of Capricorn, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Sun",
+      "sign": "Capricorn",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "sun_aquarius",
+    "text": "Sun in Aquarius expresses its energy through the traits of Aquarius, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Sun",
+      "sign": "Aquarius",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "sun_pisces",
+    "text": "Sun in Pisces expresses its energy through the traits of Pisces, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Sun",
+      "sign": "Pisces",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "moon_aries",
+    "text": "Moon in Aries expresses its energy through the traits of Aries, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Moon",
+      "sign": "Aries",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "moon_taurus",
+    "text": "Moon in Taurus expresses its energy through the traits of Taurus, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Moon",
+      "sign": "Taurus",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "moon_gemini",
+    "text": "Moon in Gemini expresses its energy through the traits of Gemini, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Moon",
+      "sign": "Gemini",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "moon_cancer",
+    "text": "Moon in Cancer expresses its energy through the traits of Cancer, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Moon",
+      "sign": "Cancer",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "moon_leo",
+    "text": "Moon in Leo expresses its energy through the traits of Leo, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Moon",
+      "sign": "Leo",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "moon_virgo",
+    "text": "Moon in Virgo expresses its energy through the traits of Virgo, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Moon",
+      "sign": "Virgo",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "moon_libra",
+    "text": "Moon in Libra expresses its energy through the traits of Libra, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Moon",
+      "sign": "Libra",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "moon_scorpio",
+    "text": "Moon in Scorpio expresses its energy through the traits of Scorpio, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Moon",
+      "sign": "Scorpio",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "moon_sagittarius",
+    "text": "Moon in Sagittarius expresses its energy through the traits of Sagittarius, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Moon",
+      "sign": "Sagittarius",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "moon_capricorn",
+    "text": "Moon in Capricorn expresses its energy through the traits of Capricorn, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Moon",
+      "sign": "Capricorn",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "moon_aquarius",
+    "text": "Moon in Aquarius expresses its energy through the traits of Aquarius, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Moon",
+      "sign": "Aquarius",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "moon_pisces",
+    "text": "Moon in Pisces expresses its energy through the traits of Pisces, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Moon",
+      "sign": "Pisces",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mars_aries",
+    "text": "Mars in Aries expresses its energy through the traits of Aries, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Mars",
+      "sign": "Aries",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mars_taurus",
+    "text": "Mars in Taurus expresses its energy through the traits of Taurus, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Mars",
+      "sign": "Taurus",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mars_gemini",
+    "text": "Mars in Gemini expresses its energy through the traits of Gemini, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Mars",
+      "sign": "Gemini",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mars_cancer",
+    "text": "Mars in Cancer expresses its energy through the traits of Cancer, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Mars",
+      "sign": "Cancer",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mars_leo",
+    "text": "Mars in Leo expresses its energy through the traits of Leo, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Mars",
+      "sign": "Leo",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mars_virgo",
+    "text": "Mars in Virgo expresses its energy through the traits of Virgo, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Mars",
+      "sign": "Virgo",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mars_libra",
+    "text": "Mars in Libra expresses its energy through the traits of Libra, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Mars",
+      "sign": "Libra",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mars_scorpio",
+    "text": "Mars in Scorpio expresses its energy through the traits of Scorpio, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Mars",
+      "sign": "Scorpio",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mars_sagittarius",
+    "text": "Mars in Sagittarius expresses its energy through the traits of Sagittarius, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Mars",
+      "sign": "Sagittarius",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mars_capricorn",
+    "text": "Mars in Capricorn expresses its energy through the traits of Capricorn, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Mars",
+      "sign": "Capricorn",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mars_aquarius",
+    "text": "Mars in Aquarius expresses its energy through the traits of Aquarius, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Mars",
+      "sign": "Aquarius",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mars_pisces",
+    "text": "Mars in Pisces expresses its energy through the traits of Pisces, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Mars",
+      "sign": "Pisces",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mercury_aries",
+    "text": "Mercury in Aries expresses its energy through the traits of Aries, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Mercury",
+      "sign": "Aries",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mercury_taurus",
+    "text": "Mercury in Taurus expresses its energy through the traits of Taurus, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Mercury",
+      "sign": "Taurus",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mercury_gemini",
+    "text": "Mercury in Gemini expresses its energy through the traits of Gemini, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Mercury",
+      "sign": "Gemini",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mercury_cancer",
+    "text": "Mercury in Cancer expresses its energy through the traits of Cancer, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Mercury",
+      "sign": "Cancer",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mercury_leo",
+    "text": "Mercury in Leo expresses its energy through the traits of Leo, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Mercury",
+      "sign": "Leo",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mercury_virgo",
+    "text": "Mercury in Virgo expresses its energy through the traits of Virgo, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Mercury",
+      "sign": "Virgo",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mercury_libra",
+    "text": "Mercury in Libra expresses its energy through the traits of Libra, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Mercury",
+      "sign": "Libra",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mercury_scorpio",
+    "text": "Mercury in Scorpio expresses its energy through the traits of Scorpio, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Mercury",
+      "sign": "Scorpio",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mercury_sagittarius",
+    "text": "Mercury in Sagittarius expresses its energy through the traits of Sagittarius, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Mercury",
+      "sign": "Sagittarius",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mercury_capricorn",
+    "text": "Mercury in Capricorn expresses its energy through the traits of Capricorn, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Mercury",
+      "sign": "Capricorn",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mercury_aquarius",
+    "text": "Mercury in Aquarius expresses its energy through the traits of Aquarius, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Mercury",
+      "sign": "Aquarius",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "mercury_pisces",
+    "text": "Mercury in Pisces expresses its energy through the traits of Pisces, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Mercury",
+      "sign": "Pisces",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "jupiter_aries",
+    "text": "Jupiter in Aries expresses its energy through the traits of Aries, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Jupiter",
+      "sign": "Aries",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "jupiter_taurus",
+    "text": "Jupiter in Taurus expresses its energy through the traits of Taurus, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Jupiter",
+      "sign": "Taurus",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "jupiter_gemini",
+    "text": "Jupiter in Gemini expresses its energy through the traits of Gemini, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Jupiter",
+      "sign": "Gemini",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "jupiter_cancer",
+    "text": "Jupiter in Cancer expresses its energy through the traits of Cancer, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Jupiter",
+      "sign": "Cancer",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "jupiter_leo",
+    "text": "Jupiter in Leo expresses its energy through the traits of Leo, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Jupiter",
+      "sign": "Leo",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "jupiter_virgo",
+    "text": "Jupiter in Virgo expresses its energy through the traits of Virgo, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Jupiter",
+      "sign": "Virgo",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "jupiter_libra",
+    "text": "Jupiter in Libra expresses its energy through the traits of Libra, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Jupiter",
+      "sign": "Libra",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "jupiter_scorpio",
+    "text": "Jupiter in Scorpio expresses its energy through the traits of Scorpio, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Jupiter",
+      "sign": "Scorpio",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "jupiter_sagittarius",
+    "text": "Jupiter in Sagittarius expresses its energy through the traits of Sagittarius, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Jupiter",
+      "sign": "Sagittarius",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "jupiter_capricorn",
+    "text": "Jupiter in Capricorn expresses its energy through the traits of Capricorn, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Jupiter",
+      "sign": "Capricorn",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "jupiter_aquarius",
+    "text": "Jupiter in Aquarius expresses its energy through the traits of Aquarius, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Jupiter",
+      "sign": "Aquarius",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "jupiter_pisces",
+    "text": "Jupiter in Pisces expresses its energy through the traits of Pisces, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Jupiter",
+      "sign": "Pisces",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "venus_aries",
+    "text": "Venus in Aries expresses its energy through the traits of Aries, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Venus",
+      "sign": "Aries",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "venus_taurus",
+    "text": "Venus in Taurus expresses its energy through the traits of Taurus, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Venus",
+      "sign": "Taurus",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "venus_gemini",
+    "text": "Venus in Gemini expresses its energy through the traits of Gemini, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Venus",
+      "sign": "Gemini",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "venus_cancer",
+    "text": "Venus in Cancer expresses its energy through the traits of Cancer, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Venus",
+      "sign": "Cancer",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "venus_leo",
+    "text": "Venus in Leo expresses its energy through the traits of Leo, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Venus",
+      "sign": "Leo",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "venus_virgo",
+    "text": "Venus in Virgo expresses its energy through the traits of Virgo, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Venus",
+      "sign": "Virgo",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "venus_libra",
+    "text": "Venus in Libra expresses its energy through the traits of Libra, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Venus",
+      "sign": "Libra",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "venus_scorpio",
+    "text": "Venus in Scorpio expresses its energy through the traits of Scorpio, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Venus",
+      "sign": "Scorpio",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "venus_sagittarius",
+    "text": "Venus in Sagittarius expresses its energy through the traits of Sagittarius, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Venus",
+      "sign": "Sagittarius",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "venus_capricorn",
+    "text": "Venus in Capricorn expresses its energy through the traits of Capricorn, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Venus",
+      "sign": "Capricorn",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "venus_aquarius",
+    "text": "Venus in Aquarius expresses its energy through the traits of Aquarius, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Venus",
+      "sign": "Aquarius",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "venus_pisces",
+    "text": "Venus in Pisces expresses its energy through the traits of Pisces, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Venus",
+      "sign": "Pisces",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "saturn_aries",
+    "text": "Saturn in Aries expresses its energy through the traits of Aries, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Saturn",
+      "sign": "Aries",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "saturn_taurus",
+    "text": "Saturn in Taurus expresses its energy through the traits of Taurus, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Saturn",
+      "sign": "Taurus",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "saturn_gemini",
+    "text": "Saturn in Gemini expresses its energy through the traits of Gemini, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Saturn",
+      "sign": "Gemini",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "saturn_cancer",
+    "text": "Saturn in Cancer expresses its energy through the traits of Cancer, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Saturn",
+      "sign": "Cancer",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "saturn_leo",
+    "text": "Saturn in Leo expresses its energy through the traits of Leo, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Saturn",
+      "sign": "Leo",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "saturn_virgo",
+    "text": "Saturn in Virgo expresses its energy through the traits of Virgo, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Saturn",
+      "sign": "Virgo",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "saturn_libra",
+    "text": "Saturn in Libra expresses its energy through the traits of Libra, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Saturn",
+      "sign": "Libra",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "saturn_scorpio",
+    "text": "Saturn in Scorpio expresses its energy through the traits of Scorpio, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Saturn",
+      "sign": "Scorpio",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "saturn_sagittarius",
+    "text": "Saturn in Sagittarius expresses its energy through the traits of Sagittarius, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Saturn",
+      "sign": "Sagittarius",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "saturn_capricorn",
+    "text": "Saturn in Capricorn expresses its energy through the traits of Capricorn, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Saturn",
+      "sign": "Capricorn",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "saturn_aquarius",
+    "text": "Saturn in Aquarius expresses its energy through the traits of Aquarius, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Saturn",
+      "sign": "Aquarius",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "saturn_pisces",
+    "text": "Saturn in Pisces expresses its energy through the traits of Pisces, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Saturn",
+      "sign": "Pisces",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "rahu_aries",
+    "text": "Rahu in Aries expresses its energy through the traits of Aries, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Rahu",
+      "sign": "Aries",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "rahu_taurus",
+    "text": "Rahu in Taurus expresses its energy through the traits of Taurus, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Rahu",
+      "sign": "Taurus",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "rahu_gemini",
+    "text": "Rahu in Gemini expresses its energy through the traits of Gemini, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Rahu",
+      "sign": "Gemini",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "rahu_cancer",
+    "text": "Rahu in Cancer expresses its energy through the traits of Cancer, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Rahu",
+      "sign": "Cancer",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "rahu_leo",
+    "text": "Rahu in Leo expresses its energy through the traits of Leo, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Rahu",
+      "sign": "Leo",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "rahu_virgo",
+    "text": "Rahu in Virgo expresses its energy through the traits of Virgo, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Rahu",
+      "sign": "Virgo",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "rahu_libra",
+    "text": "Rahu in Libra expresses its energy through the traits of Libra, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Rahu",
+      "sign": "Libra",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "rahu_scorpio",
+    "text": "Rahu in Scorpio expresses its energy through the traits of Scorpio, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Rahu",
+      "sign": "Scorpio",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "rahu_sagittarius",
+    "text": "Rahu in Sagittarius expresses its energy through the traits of Sagittarius, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Rahu",
+      "sign": "Sagittarius",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "rahu_capricorn",
+    "text": "Rahu in Capricorn expresses its energy through the traits of Capricorn, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Rahu",
+      "sign": "Capricorn",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "rahu_aquarius",
+    "text": "Rahu in Aquarius expresses its energy through the traits of Aquarius, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Rahu",
+      "sign": "Aquarius",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "rahu_pisces",
+    "text": "Rahu in Pisces expresses its energy through the traits of Pisces, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Rahu",
+      "sign": "Pisces",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "ketu_aries",
+    "text": "Ketu in Aries expresses its energy through the traits of Aries, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Ketu",
+      "sign": "Aries",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "ketu_taurus",
+    "text": "Ketu in Taurus expresses its energy through the traits of Taurus, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Ketu",
+      "sign": "Taurus",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "ketu_gemini",
+    "text": "Ketu in Gemini expresses its energy through the traits of Gemini, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Ketu",
+      "sign": "Gemini",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "ketu_cancer",
+    "text": "Ketu in Cancer expresses its energy through the traits of Cancer, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Ketu",
+      "sign": "Cancer",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "ketu_leo",
+    "text": "Ketu in Leo expresses its energy through the traits of Leo, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Ketu",
+      "sign": "Leo",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "ketu_virgo",
+    "text": "Ketu in Virgo expresses its energy through the traits of Virgo, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Ketu",
+      "sign": "Virgo",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "ketu_libra",
+    "text": "Ketu in Libra expresses its energy through the traits of Libra, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Ketu",
+      "sign": "Libra",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "ketu_scorpio",
+    "text": "Ketu in Scorpio expresses its energy through the traits of Scorpio, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Ketu",
+      "sign": "Scorpio",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "ketu_sagittarius",
+    "text": "Ketu in Sagittarius expresses its energy through the traits of Sagittarius, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Ketu",
+      "sign": "Sagittarius",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "ketu_capricorn",
+    "text": "Ketu in Capricorn expresses its energy through the traits of Capricorn, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Ketu",
+      "sign": "Capricorn",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "ketu_aquarius",
+    "text": "Ketu in Aquarius expresses its energy through the traits of Aquarius, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Ketu",
+      "sign": "Aquarius",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "ketu_pisces",
+    "text": "Ketu in Pisces expresses its energy through the traits of Pisces, shaping personality and life experiences.",
+    "metadata": {
+      "planet": "Ketu",
+      "sign": "Pisces",
+      "type": "placement"
+    }
+  },
+  {
+    "id": "sun_aspect_moon",
+    "text": "Sun's aspect on Moon modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Sun",
+      "aspect": "Moon",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "sun_aspect_mars",
+    "text": "Sun's aspect on Mars modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Sun",
+      "aspect": "Mars",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "sun_aspect_mercury",
+    "text": "Sun's aspect on Mercury modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Sun",
+      "aspect": "Mercury",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "sun_aspect_jupiter",
+    "text": "Sun's aspect on Jupiter modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Sun",
+      "aspect": "Jupiter",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "sun_aspect_venus",
+    "text": "Sun's aspect on Venus modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Sun",
+      "aspect": "Venus",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "sun_aspect_saturn",
+    "text": "Sun's aspect on Saturn modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Sun",
+      "aspect": "Saturn",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "sun_aspect_rahu",
+    "text": "Sun's aspect on Rahu modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Sun",
+      "aspect": "Rahu",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "sun_aspect_ketu",
+    "text": "Sun's aspect on Ketu modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Sun",
+      "aspect": "Ketu",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "moon_aspect_sun",
+    "text": "Moon's aspect on Sun modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Moon",
+      "aspect": "Sun",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "moon_aspect_mars",
+    "text": "Moon's aspect on Mars modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Moon",
+      "aspect": "Mars",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "moon_aspect_mercury",
+    "text": "Moon's aspect on Mercury modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Moon",
+      "aspect": "Mercury",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "moon_aspect_jupiter",
+    "text": "Moon's aspect on Jupiter modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Moon",
+      "aspect": "Jupiter",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "moon_aspect_venus",
+    "text": "Moon's aspect on Venus modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Moon",
+      "aspect": "Venus",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "moon_aspect_saturn",
+    "text": "Moon's aspect on Saturn modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Moon",
+      "aspect": "Saturn",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "moon_aspect_rahu",
+    "text": "Moon's aspect on Rahu modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Moon",
+      "aspect": "Rahu",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "moon_aspect_ketu",
+    "text": "Moon's aspect on Ketu modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Moon",
+      "aspect": "Ketu",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "mars_aspect_sun",
+    "text": "Mars's aspect on Sun modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Mars",
+      "aspect": "Sun",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "mars_aspect_moon",
+    "text": "Mars's aspect on Moon modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Mars",
+      "aspect": "Moon",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "mars_aspect_mercury",
+    "text": "Mars's aspect on Mercury modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Mars",
+      "aspect": "Mercury",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "mars_aspect_jupiter",
+    "text": "Mars's aspect on Jupiter modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Mars",
+      "aspect": "Jupiter",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "mars_aspect_venus",
+    "text": "Mars's aspect on Venus modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Mars",
+      "aspect": "Venus",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "mars_aspect_saturn",
+    "text": "Mars's aspect on Saturn modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Mars",
+      "aspect": "Saturn",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "mars_aspect_rahu",
+    "text": "Mars's aspect on Rahu modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Mars",
+      "aspect": "Rahu",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "mars_aspect_ketu",
+    "text": "Mars's aspect on Ketu modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Mars",
+      "aspect": "Ketu",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "mercury_aspect_sun",
+    "text": "Mercury's aspect on Sun modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Mercury",
+      "aspect": "Sun",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "mercury_aspect_moon",
+    "text": "Mercury's aspect on Moon modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Mercury",
+      "aspect": "Moon",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "mercury_aspect_mars",
+    "text": "Mercury's aspect on Mars modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Mercury",
+      "aspect": "Mars",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "mercury_aspect_jupiter",
+    "text": "Mercury's aspect on Jupiter modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Mercury",
+      "aspect": "Jupiter",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "mercury_aspect_venus",
+    "text": "Mercury's aspect on Venus modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Mercury",
+      "aspect": "Venus",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "mercury_aspect_saturn",
+    "text": "Mercury's aspect on Saturn modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Mercury",
+      "aspect": "Saturn",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "mercury_aspect_rahu",
+    "text": "Mercury's aspect on Rahu modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Mercury",
+      "aspect": "Rahu",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "mercury_aspect_ketu",
+    "text": "Mercury's aspect on Ketu modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Mercury",
+      "aspect": "Ketu",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "jupiter_aspect_sun",
+    "text": "Jupiter's aspect on Sun modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Jupiter",
+      "aspect": "Sun",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "jupiter_aspect_moon",
+    "text": "Jupiter's aspect on Moon modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Jupiter",
+      "aspect": "Moon",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "jupiter_aspect_mars",
+    "text": "Jupiter's aspect on Mars modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Jupiter",
+      "aspect": "Mars",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "jupiter_aspect_mercury",
+    "text": "Jupiter's aspect on Mercury modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Jupiter",
+      "aspect": "Mercury",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "jupiter_aspect_venus",
+    "text": "Jupiter's aspect on Venus modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Jupiter",
+      "aspect": "Venus",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "jupiter_aspect_saturn",
+    "text": "Jupiter's aspect on Saturn modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Jupiter",
+      "aspect": "Saturn",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "jupiter_aspect_rahu",
+    "text": "Jupiter's aspect on Rahu modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Jupiter",
+      "aspect": "Rahu",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "jupiter_aspect_ketu",
+    "text": "Jupiter's aspect on Ketu modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Jupiter",
+      "aspect": "Ketu",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "venus_aspect_sun",
+    "text": "Venus's aspect on Sun modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Venus",
+      "aspect": "Sun",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "venus_aspect_moon",
+    "text": "Venus's aspect on Moon modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Venus",
+      "aspect": "Moon",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "venus_aspect_mars",
+    "text": "Venus's aspect on Mars modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Venus",
+      "aspect": "Mars",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "venus_aspect_mercury",
+    "text": "Venus's aspect on Mercury modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Venus",
+      "aspect": "Mercury",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "venus_aspect_jupiter",
+    "text": "Venus's aspect on Jupiter modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Venus",
+      "aspect": "Jupiter",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "venus_aspect_saturn",
+    "text": "Venus's aspect on Saturn modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Venus",
+      "aspect": "Saturn",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "venus_aspect_rahu",
+    "text": "Venus's aspect on Rahu modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Venus",
+      "aspect": "Rahu",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "venus_aspect_ketu",
+    "text": "Venus's aspect on Ketu modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Venus",
+      "aspect": "Ketu",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "saturn_aspect_sun",
+    "text": "Saturn's aspect on Sun modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Saturn",
+      "aspect": "Sun",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "saturn_aspect_moon",
+    "text": "Saturn's aspect on Moon modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Saturn",
+      "aspect": "Moon",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "saturn_aspect_mars",
+    "text": "Saturn's aspect on Mars modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Saturn",
+      "aspect": "Mars",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "saturn_aspect_mercury",
+    "text": "Saturn's aspect on Mercury modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Saturn",
+      "aspect": "Mercury",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "saturn_aspect_jupiter",
+    "text": "Saturn's aspect on Jupiter modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Saturn",
+      "aspect": "Jupiter",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "saturn_aspect_venus",
+    "text": "Saturn's aspect on Venus modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Saturn",
+      "aspect": "Venus",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "saturn_aspect_rahu",
+    "text": "Saturn's aspect on Rahu modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Saturn",
+      "aspect": "Rahu",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "saturn_aspect_ketu",
+    "text": "Saturn's aspect on Ketu modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Saturn",
+      "aspect": "Ketu",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "rahu_aspect_sun",
+    "text": "Rahu's aspect on Sun modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Rahu",
+      "aspect": "Sun",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "rahu_aspect_moon",
+    "text": "Rahu's aspect on Moon modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Rahu",
+      "aspect": "Moon",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "rahu_aspect_mars",
+    "text": "Rahu's aspect on Mars modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Rahu",
+      "aspect": "Mars",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "rahu_aspect_mercury",
+    "text": "Rahu's aspect on Mercury modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Rahu",
+      "aspect": "Mercury",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "rahu_aspect_jupiter",
+    "text": "Rahu's aspect on Jupiter modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Rahu",
+      "aspect": "Jupiter",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "rahu_aspect_venus",
+    "text": "Rahu's aspect on Venus modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Rahu",
+      "aspect": "Venus",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "rahu_aspect_saturn",
+    "text": "Rahu's aspect on Saturn modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Rahu",
+      "aspect": "Saturn",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "rahu_aspect_ketu",
+    "text": "Rahu's aspect on Ketu modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Rahu",
+      "aspect": "Ketu",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "ketu_aspect_sun",
+    "text": "Ketu's aspect on Sun modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Ketu",
+      "aspect": "Sun",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "ketu_aspect_moon",
+    "text": "Ketu's aspect on Moon modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Ketu",
+      "aspect": "Moon",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "ketu_aspect_mars",
+    "text": "Ketu's aspect on Mars modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Ketu",
+      "aspect": "Mars",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "ketu_aspect_mercury",
+    "text": "Ketu's aspect on Mercury modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Ketu",
+      "aspect": "Mercury",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "ketu_aspect_jupiter",
+    "text": "Ketu's aspect on Jupiter modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Ketu",
+      "aspect": "Jupiter",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "ketu_aspect_venus",
+    "text": "Ketu's aspect on Venus modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Ketu",
+      "aspect": "Venus",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "ketu_aspect_saturn",
+    "text": "Ketu's aspect on Saturn modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Ketu",
+      "aspect": "Saturn",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "ketu_aspect_rahu",
+    "text": "Ketu's aspect on Rahu modifies its effects, blending energies and influencing outcomes.",
+    "metadata": {
+      "planet": "Ketu",
+      "aspect": "Rahu",
+      "type": "aspect"
+    }
+  },
+  {
+    "id": "sun_conjunct_moon",
+    "text": "Conjunction of Sun and Moon blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Sun",
+        "Moon"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "sun_conjunct_mars",
+    "text": "Conjunction of Sun and Mars blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Sun",
+        "Mars"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "sun_conjunct_mercury",
+    "text": "Conjunction of Sun and Mercury blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Sun",
+        "Mercury"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "sun_conjunct_jupiter",
+    "text": "Conjunction of Sun and Jupiter blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Sun",
+        "Jupiter"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "sun_conjunct_venus",
+    "text": "Conjunction of Sun and Venus blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Sun",
+        "Venus"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "sun_conjunct_saturn",
+    "text": "Conjunction of Sun and Saturn blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Sun",
+        "Saturn"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "sun_conjunct_rahu",
+    "text": "Conjunction of Sun and Rahu blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Sun",
+        "Rahu"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "sun_conjunct_ketu",
+    "text": "Conjunction of Sun and Ketu blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Sun",
+        "Ketu"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "moon_conjunct_mars",
+    "text": "Conjunction of Moon and Mars blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Moon",
+        "Mars"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "moon_conjunct_mercury",
+    "text": "Conjunction of Moon and Mercury blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Moon",
+        "Mercury"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "moon_conjunct_jupiter",
+    "text": "Conjunction of Moon and Jupiter blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Moon",
+        "Jupiter"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "moon_conjunct_venus",
+    "text": "Conjunction of Moon and Venus blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Moon",
+        "Venus"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "moon_conjunct_saturn",
+    "text": "Conjunction of Moon and Saturn blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Moon",
+        "Saturn"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "moon_conjunct_rahu",
+    "text": "Conjunction of Moon and Rahu blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Moon",
+        "Rahu"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "moon_conjunct_ketu",
+    "text": "Conjunction of Moon and Ketu blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Moon",
+        "Ketu"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "mars_conjunct_mercury",
+    "text": "Conjunction of Mars and Mercury blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Mars",
+        "Mercury"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "mars_conjunct_jupiter",
+    "text": "Conjunction of Mars and Jupiter blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Mars",
+        "Jupiter"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "mars_conjunct_venus",
+    "text": "Conjunction of Mars and Venus blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Mars",
+        "Venus"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "mars_conjunct_saturn",
+    "text": "Conjunction of Mars and Saturn blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Mars",
+        "Saturn"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "mars_conjunct_rahu",
+    "text": "Conjunction of Mars and Rahu blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Mars",
+        "Rahu"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "mars_conjunct_ketu",
+    "text": "Conjunction of Mars and Ketu blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Mars",
+        "Ketu"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "mercury_conjunct_jupiter",
+    "text": "Conjunction of Mercury and Jupiter blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Mercury",
+        "Jupiter"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "mercury_conjunct_venus",
+    "text": "Conjunction of Mercury and Venus blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Mercury",
+        "Venus"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "mercury_conjunct_saturn",
+    "text": "Conjunction of Mercury and Saturn blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Mercury",
+        "Saturn"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "mercury_conjunct_rahu",
+    "text": "Conjunction of Mercury and Rahu blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Mercury",
+        "Rahu"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "mercury_conjunct_ketu",
+    "text": "Conjunction of Mercury and Ketu blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Mercury",
+        "Ketu"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "jupiter_conjunct_venus",
+    "text": "Conjunction of Jupiter and Venus blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Jupiter",
+        "Venus"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "jupiter_conjunct_saturn",
+    "text": "Conjunction of Jupiter and Saturn blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Jupiter",
+        "Saturn"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "jupiter_conjunct_rahu",
+    "text": "Conjunction of Jupiter and Rahu blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Jupiter",
+        "Rahu"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "jupiter_conjunct_ketu",
+    "text": "Conjunction of Jupiter and Ketu blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Jupiter",
+        "Ketu"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "venus_conjunct_saturn",
+    "text": "Conjunction of Venus and Saturn blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Venus",
+        "Saturn"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "venus_conjunct_rahu",
+    "text": "Conjunction of Venus and Rahu blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Venus",
+        "Rahu"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "venus_conjunct_ketu",
+    "text": "Conjunction of Venus and Ketu blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Venus",
+        "Ketu"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "saturn_conjunct_rahu",
+    "text": "Conjunction of Saturn and Rahu blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Saturn",
+        "Rahu"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "saturn_conjunct_ketu",
+    "text": "Conjunction of Saturn and Ketu blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Saturn",
+        "Ketu"
+      ],
+      "type": "conjunction"
+    }
+  },
+  {
+    "id": "rahu_conjunct_ketu",
+    "text": "Conjunction of Rahu and Ketu blends their energies, producing combined effects in a horoscope.",
+    "metadata": {
+      "planets": [
+        "Rahu",
+        "Ketu"
+      ],
+      "type": "conjunction"
+    }
+  }
+]
