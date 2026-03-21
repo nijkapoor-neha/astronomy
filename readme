@@ -1,0 +1,4 @@
+whenever change in json run below command
+python -m db.build-index
+python main.py
+python main_date_time.py

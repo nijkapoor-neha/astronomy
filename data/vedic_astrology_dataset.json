@@ -2986,5 +2986,227 @@
       ],
       "type": "conjunction"
     }
+  },
+  {
+    "id": "lagna_aries",
+    "text": "Aries lagna people are strongly influenced by Aries traits, shaping personality, appearance, and life direction.",
+    "metadata": {
+      "type": "lagna",
+      "sign": "Aries"
+    }
+  },
+  {
+    "id": "lagna_taurus",
+    "text": "Taurus lagna people are strongly influenced by Taurus traits, shaping personality, appearance, and life direction.",
+    "metadata": {
+      "type": "lagna",
+      "sign": "Taurus"
+    }
+  },
+  {
+    "id": "lagna_gemini",
+    "text": "Gemini lagna people are strongly influenced by Gemini traits, shaping personality, appearance, and life direction.",
+    "metadata": {
+      "type": "lagna",
+      "sign": "Gemini"
+    }
+  },
+  {
+    "id": "lagna_cancer",
+    "text": "Cancer lagna people are strongly influenced by Cancer traits, shaping personality, appearance, and life direction.",
+    "metadata": {
+      "type": "lagna",
+      "sign": "Cancer"
+    }
+  },
+  {
+    "id": "lagna_leo",
+    "text": "Leo lagna people are strongly influenced by Leo traits, shaping personality, appearance, and life direction.",
+    "metadata": {
+      "type": "lagna",
+      "sign": "Leo"
+    }
+  },
+  {
+    "id": "lagna_virgo",
+    "text": "Virgo lagna people are strongly influenced by Virgo traits, shaping personality, appearance, and life direction.",
+    "metadata": {
+      "type": "lagna",
+      "sign": "Virgo"
+    }
+  },
+  {
+    "id": "lagna_libra",
+    "text": "Libra lagna people are strongly influenced by Libra traits, shaping personality, appearance, and life direction.",
+    "metadata": {
+      "type": "lagna",
+      "sign": "Libra"
+    }
+  },
+  {
+    "id": "lagna_scorpio",
+    "text": "Scorpio lagna people are strongly influenced by Scorpio traits, shaping personality, appearance, and life direction.",
+    "metadata": {
+      "type": "lagna",
+      "sign": "Scorpio"
+    }
+  },
+  {
+    "id": "lagna_sagittarius",
+    "text": "Sagittarius lagna people are strongly influenced by Sagittarius traits, shaping personality, appearance, and life direction.",
+    "metadata": {
+      "type": "lagna",
+      "sign": "Sagittarius"
+    }
+  },
+  {
+    "id": "lagna_capricorn",
+    "text": "Capricorn lagna people are strongly influenced by Capricorn traits, shaping personality, appearance, and life direction.",
+    "metadata": {
+      "type": "lagna",
+      "sign": "Capricorn"
+    }
+  },
+  {
+    "id": "lagna_aquarius",
+    "text": "Aquarius lagna people are strongly influenced by Aquarius traits, shaping personality, appearance, and life direction.",
+    "metadata": {
+      "type": "lagna",
+      "sign": "Aquarius"
+    }
+  },
+  {
+    "id": "lagna_pisces",
+    "text": "Pisces lagna people are strongly influenced by Pisces traits, shaping personality, appearance, and life direction.",
+    "metadata": {
+      "type": "lagna",
+      "sign": "Pisces"
+    }
+  },
+  {
+    "id": "sun_exalted_aries",
+    "text": "Sun exalted in Aries expresses strong, positive, and refined qualities.",
+    "metadata": {
+      "planet": "Sun",
+      "sign": "Aries",
+      "type": "exaltation"
+    }
+  },
+  {
+    "id": "moon_exalted_taurus",
+    "text": "Moon exalted in Taurus expresses strong, positive, and refined qualities.",
+    "metadata": {
+      "planet": "Moon",
+      "sign": "Taurus",
+      "type": "exaltation"
+    }
+  },
+  {
+    "id": "mars_exalted_capricorn",
+    "text": "Mars exalted in Capricorn expresses strong, positive, and refined qualities.",
+    "metadata": {
+      "planet": "Mars",
+      "sign": "Capricorn",
+      "type": "exaltation"
+    }
+  },
+  {
+    "id": "mercury_exalted_virgo",
+    "text": "Mercury exalted in Virgo expresses strong, positive, and refined qualities.",
+    "metadata": {
+      "planet": "Mercury",
+      "sign": "Virgo",
+      "type": "exaltation"
+    }
+  },
+  {
+    "id": "jupiter_exalted_cancer",
+    "text": "Jupiter exalted in Cancer expresses strong, positive, and refined qualities.",
+    "metadata": {
+      "planet": "Jupiter",
+      "sign": "Cancer",
+      "type": "exaltation"
+    }
+  },
+  {
+    "id": "venus_exalted_pisces",
+    "text": "Venus exalted in Pisces expresses strong, positive, and refined qualities.",
+    "metadata": {
+      "planet": "Venus",
+      "sign": "Pisces",
+      "type": "exaltation"
+    }
+  },
+  {
+    "id": "saturn_exalted_libra",
+    "text": "Saturn exalted in Libra expresses strong, positive, and refined qualities.",
+    "metadata": {
+      "planet": "Saturn",
+      "sign": "Libra",
+      "type": "exaltation"
+    }
+  },
+  {
+    "id": "sun_debilitated_libra",
+    "text": "Sun debilitated in Libra may struggle, causing challenges related to its natural significations.",
+    "metadata": {
+      "planet": "Sun",
+      "sign": "Libra",
+      "type": "debilitation"
+    }
+  },
+  {
+    "id": "moon_debilitated_scorpio",
+    "text": "Moon debilitated in Scorpio may struggle, causing challenges related to its natural significations.",
+    "metadata": {
+      "planet": "Moon",
+      "sign": "Scorpio",
+      "type": "debilitation"
+    }
+  },
+  {
+    "id": "mars_debilitated_cancer",
+    "text": "Mars debilitated in Cancer may struggle, causing challenges related to its natural significations.",
+    "metadata": {
+      "planet": "Mars",
+      "sign": "Cancer",
+      "type": "debilitation"
+    }
+  },
+  {
+    "id": "mercury_debilitated_pisces",
+    "text": "Mercury debilitated in Pisces may struggle, causing challenges related to its natural significations.",
+    "metadata": {
+      "planet": "Mercury",
+      "sign": "Pisces",
+      "type": "debilitation"
+    }
+  },
+  {
+    "id": "jupiter_debilitated_capricorn",
+    "text": "Jupiter debilitated in Capricorn may struggle, causing challenges related to its natural significations.",
+    "metadata": {
+      "planet": "Jupiter",
+      "sign": "Capricorn",
+      "type": "debilitation"
+    }
+  },
+  {
+    "id": "venus_debilitated_virgo",
+    "text": "Venus debilitated in Virgo may struggle, causing challenges related to its natural significations.",
+    "metadata": {
+      "planet": "Venus",
+      "sign": "Virgo",
+      "type": "debilitation"
+    }
+  },
+  {
+    "id": "saturn_debilitated_aries",
+    "text": "Saturn debilitated in Aries may struggle, causing challenges related to its natural significations.",
+    "metadata": {
+      "planet": "Saturn",
+      "sign": "Aries",
+      "type": "debilitation"
+    }
   }
 ]
