@@ -1,13 +1,38 @@
 import numpy as np
 import faiss
+import json
+import sys
+import os
 from utils.loader import load_data
 from embeddings.embedder import Embedder
 from db.storage import save_index, save_pickle
 
-DATA_PATH = "data/vedic_astrology_dataset.json"
+# Allow dynamic data path - check for enhanced data first
+def get_data_path():
+    # Check if enhanced entries exist
+    if os.path.exists("data/enhanced_entries.json"):
+        return "data/enhanced_entries.json"
+    # Check if merged file exists
+    if os.path.exists("data/vedic_astrology_dataset_enhanced.json"):
+        return "data/vedic_astrology_dataset_enhanced.json"
+    # Fallback to original
+    return "data/vedic_astrology_dataset.json"
 
-def build():
-    texts, ids, metadata = load_data(DATA_PATH)
+DATA_PATH = get_data_path()
+
+def build(data_path=None):
+    # Allow override via function parameter or command line
+    if data_path is None:
+        data_path = DATA_PATH
+    
+    print(f"📚 Building index from: {data_path}")
+    
+    if not os.path.exists(data_path):
+        print(f"❌ Error: {data_path} not found!")
+        print(f"   Available files: vedic_astrology_dataset.json, enhanced_entries.json")
+        return
+    
+    texts, ids, metadata = load_data(data_path)
 
     embedder = Embedder()
 
@@ -31,6 +56,8 @@ def build():
     save_pickle(meta_map, "db/meta_map.pkl")
 
     print("✅ FAISS index built successfully!")
+    print(f"   Indexed {len(ids)} entries from {data_path}")
 
 if __name__ == "__main__":
-    build()
+    data_file = sys.argv[1] if len(sys.argv) > 1 else None
+    build(data_file)
