@@ -1,6 +1,6 @@
 from db.search import VectorSearch
-from astrology.calculator import calculate_lagna
-from query.mapper import build_lagna_query
+from astrology.calculator import calculate_full_chart
+from query.builder import build_queries
 
 def main():
     search_engine = VectorSearch()
@@ -15,20 +15,36 @@ def main():
     lat = float(input("Latitude: "))
     lon = float(input("Longitude: "))
 
-    # Step 1: Calculate Lagna
-    lagna, degree = calculate_lagna(dob, time, lat, lon)
+    # 🔮 Step 1: Calculate Full Chart
+    chart = calculate_full_chart(dob, time, lat, lon)
 
-    print(f"\n🔮 Your Lagna: {lagna} ({degree:.2f}°)")
+    print("\n🔮 Your Chart Summary:\n")
+    print(f"Lagna: {chart['lagna']} ({chart['lagna_degree']:.2f}°)")
 
-    # Step 2: Build query
-    query = build_lagna_query(lagna)
+    moon = chart["planets"]["Moon"]
+    print(f"Moon Nakshatra: {moon['nakshatra']}")
 
-    # Step 3: Search vector DB
-    results = search_engine.search(query)
+    print("\n🪐 Planet Positions:")
+    for planet, info in chart["planets"].items():
+        print(f"{planet}: {info['sign']} | House {info['house']} | {info['nakshatra']}")
+
+    # 🔍 Step 2: Build Queries
+    queries = build_queries(chart)
 
     print("\n📖 Interpretation:\n")
-    for r in results:
-        print(f"- {r['text']}\n")
+
+    # 🔎 Step 3: Search Vector DB
+    seen = set()
+
+    for q in queries[:8]:  # limit to avoid overload
+        results = search_engine.search(q, k=1)
+
+        for r in results:
+            if r["text"] not in seen:
+                print(f"🔹 {q}")
+                print(f"   → {r['text']}\n")
+                seen.add(r["text"])
+
 
 if __name__ == "__main__":
     main()
