@@ -31,19 +31,33 @@ def main():
     # 🔍 Step 2: Build Queries
     queries = build_queries(chart)
 
-    print("\n📖 Interpretation:\n")
+    print("\n📖 Your Astrological Interpretation:\n")
+    print("=" * 70)
 
     # 🔎 Step 3: Search Vector DB
     seen = set()
+    result_count = 0
 
     for q in queries[:8]:  # limit to avoid overload
         results = search_engine.search(q, k=1)
 
         for r in results:
             if r["text"] not in seen:
-                print(f"🔹 {q}")
-                print(f"   → {r['text']}\n")
+                result_count += 1
+                tags = r.get("metadata", {}).get("tags", [])
+                
+                print(f"\n{result_count}. {q}")
+                print("-" * 70)
+                print(f"   {r['text']}")
+                
+                if tags:
+                    tag_str = ", ".join(tags[:5])  # Show first 5 tags
+                    print(f"   📌 Keywords: {tag_str}")
+                
                 seen.add(r["text"])
+
+    print("\n" + "=" * 70)
+    print(f"✨ Showing {result_count} key interpretations from your chart\n")
 
 
 if __name__ == "__main__":

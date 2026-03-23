@@ -6036,1190 +6036,2378 @@
   },
   {
     "id": "sun_1h",
-    "text": "Sun in House 1 impacts personality, appearance, health, life direction, bringing effects related to ego, vitality, authority, father, career, public image. The house themes are influenced by Sun's intrinsic nature and strength in the chart.",
+    "text": "Strong personality, natural leader, confident. People notice you easily. Good for management jobs.",
     "metadata": {
       "planet": "Sun",
       "house": 1,
+      "house_name": "Self",
       "type": "planet_house_placement",
-      "themes": "personality, appearance, health, life direction",
-      "planet_nature": "ego, vitality, authority, father, career, public image"
+      "tags": [
+        "identity",
+        "power",
+        "success",
+        "career",
+        "appearance",
+        "personality",
+        "health",
+        "identity"
+      ],
+      "simple": true
     }
   },
   {
     "id": "sun_2h",
-    "text": "Sun in House 2 impacts wealth, family, speech, possessions, food, bringing effects related to ego, vitality, authority, father, career, public image. The house themes are influenced by Sun's intrinsic nature and strength in the chart.",
+    "text": "Good income through hard work. Likes to spend on family. Can be bossy about money.",
     "metadata": {
       "planet": "Sun",
       "house": 2,
+      "house_name": "Money & Family",
       "type": "planet_house_placement",
-      "themes": "wealth, family, speech, possessions, food",
-      "planet_nature": "ego, vitality, authority, father, career, public image"
+      "tags": [
+        "identity",
+        "power",
+        "success",
+        "career",
+        "wealth",
+        "money",
+        "family",
+        "food",
+        "possessions"
+      ],
+      "simple": true
     }
   },
   {
     "id": "sun_3h",
-    "text": "Sun in House 3 impacts communication, siblings, short travels, courage, bringing effects related to ego, vitality, authority, father, career, public image. The house themes are influenced by Sun's intrinsic nature and strength in the chart.",
+    "text": "Good at convincing others, brave in speaking opinion. May argue a lot. Good for sales, teaching.",
     "metadata": {
       "planet": "Sun",
       "house": 3,
+      "house_name": "Communication",
       "type": "planet_house_placement",
-      "themes": "communication, siblings, short travels, courage",
-      "planet_nature": "ego, vitality, authority, father, career, public image"
+      "tags": [
+        "identity",
+        "power",
+        "success",
+        "career",
+        "communication",
+        "siblings",
+        "travel",
+        "writing",
+        "courage"
+      ],
+      "simple": true
     }
   },
   {
     "id": "sun_4h",
-    "text": "Sun in House 4 impacts home, mother, property, peace, foundation, bringing effects related to ego, vitality, authority, father, career, public image. The house themes are influenced by Sun's intrinsic nature and strength in the chart.",
+    "text": "May have distance from mother. Works hard for home and family. Gains property slowly.",
     "metadata": {
       "planet": "Sun",
       "house": 4,
+      "house_name": "Home & Mother",
       "type": "planet_house_placement",
-      "themes": "home, mother, property, peace, foundation",
-      "planet_nature": "ego, vitality, authority, father, career, public image"
+      "tags": [
+        "identity",
+        "power",
+        "success",
+        "career",
+        "home",
+        "mother",
+        "property",
+        "peace",
+        "family"
+      ],
+      "simple": true
     }
   },
   {
     "id": "sun_5h",
-    "text": "Sun in House 5 impacts children, romance, creativity, intelligence, speculation, bringing effects related to ego, vitality, authority, father, career, public image. The house themes are influenced by Sun's intrinsic nature and strength in the chart.",
+    "text": "Creative and romantic, lucky in love. Good with children. Can be proud or stubborn.",
     "metadata": {
       "planet": "Sun",
       "house": 5,
+      "house_name": "Love & Children",
       "type": "planet_house_placement",
-      "themes": "children, romance, creativity, intelligence, speculation",
-      "planet_nature": "ego, vitality, authority, father, career, public image"
+      "tags": [
+        "identity",
+        "power",
+        "success",
+        "career",
+        "love",
+        "romance",
+        "children",
+        "creativity",
+        "fun"
+      ],
+      "simple": true
     }
   },
   {
     "id": "sun_6h",
-    "text": "Sun in House 6 impacts enemies, health issues, service, competition, bringing effects related to ego, vitality, authority, father, career, public image. The house themes are influenced by Sun's intrinsic nature and strength in the chart.",
+    "text": "Strong fighter against enemies. Good at solving problems. Can work too hard and hurt health.",
     "metadata": {
       "planet": "Sun",
       "house": 6,
+      "house_name": "Work & Health",
       "type": "planet_house_placement",
-      "themes": "enemies, health issues, service, competition",
-      "planet_nature": "ego, vitality, authority, father, career, public image"
+      "tags": [
+        "identity",
+        "power",
+        "success",
+        "career",
+        "work",
+        "job",
+        "health",
+        "enemies",
+        "service"
+      ],
+      "simple": true
     }
   },
   {
     "id": "sun_7h",
-    "text": "Sun in House 7 impacts marriage, partnership, business relations, public, bringing effects related to ego, vitality, authority, father, career, public image. The house themes are influenced by Sun's intrinsic nature and strength in the chart.",
+    "text": "Partner may be strong-willed or important. Marriage brings status. Both partners ambitious.",
     "metadata": {
       "planet": "Sun",
       "house": 7,
+      "house_name": "Marriage",
       "type": "planet_house_placement",
-      "themes": "marriage, partnership, business relations, public",
-      "planet_nature": "ego, vitality, authority, father, career, public image"
+      "tags": [
+        "identity",
+        "power",
+        "success",
+        "career",
+        "marriage",
+        "partner",
+        "business",
+        "contracts"
+      ],
+      "simple": true
     }
   },
   {
     "id": "sun_8h",
-    "text": "Sun in House 8 impacts inheritance, transformation, death, mysteries, shared wealth, bringing effects related to ego, vitality, authority, father, career, public image. The house themes are influenced by Sun's intrinsic nature and strength in the chart.",
+    "text": "May inherit money or property. Lives long despite health worries. Interested in mysteries.",
     "metadata": {
       "planet": "Sun",
       "house": 8,
+      "house_name": "Inheritance & Secrets",
       "type": "planet_house_placement",
-      "themes": "inheritance, transformation, death, mysteries, shared wealth",
-      "planet_nature": "ego, vitality, authority, father, career, public image"
+      "tags": [
+        "identity",
+        "power",
+        "success",
+        "career",
+        "inheritance",
+        "transformation",
+        "mysteries",
+        "sudden"
+      ],
+      "simple": true
     }
   },
   {
     "id": "sun_9h",
-    "text": "Sun in House 9 impacts father, spirituality, higher learning, travel, dharma, bringing effects related to ego, vitality, authority, father, career, public image. The house themes are influenced by Sun's intrinsic nature and strength in the chart.",
+    "text": "Spiritual and lucky. Good teacher. Respected everywhere. May travel for belief/learning.",
     "metadata": {
       "planet": "Sun",
       "house": 9,
+      "house_name": "Luck & Travel",
       "type": "planet_house_placement",
-      "themes": "father, spirituality, higher learning, travel, dharma",
-      "planet_nature": "ego, vitality, authority, father, career, public image"
+      "tags": [
+        "identity",
+        "power",
+        "success",
+        "career",
+        "luck",
+        "learning",
+        "spirituality",
+        "travel",
+        "father"
+      ],
+      "simple": true
     }
   },
   {
     "id": "sun_10h",
-    "text": "Sun in House 10 impacts career, reputation, authority, public image, bringing effects related to ego, vitality, authority, father, career, public image. The house themes are influenced by Sun's intrinsic nature and strength in the chart.",
+    "text": "Top career success, natural boss. Gets respect and power at work. Very good placement.",
     "metadata": {
       "planet": "Sun",
       "house": 10,
+      "house_name": "Career",
       "type": "planet_house_placement",
-      "themes": "career, reputation, authority, public image",
-      "planet_nature": "ego, vitality, authority, father, career, public image"
+      "tags": [
+        "identity",
+        "power",
+        "success",
+        "career",
+        "career",
+        "success",
+        "authority",
+        "reputation",
+        "public"
+      ],
+      "simple": true
     }
   },
   {
     "id": "sun_11h",
-    "text": "Sun in House 11 impacts friendship, gains, aspirations, groups, elder siblings, bringing effects related to ego, vitality, authority, father, career, public image. The house themes are influenced by Sun's intrinsic nature and strength in the chart.",
+    "text": "Gains through friends and teamwork. Popular in groups. Money comes through hard work.",
     "metadata": {
       "planet": "Sun",
       "house": 11,
+      "house_name": "Friendships & Gains",
       "type": "planet_house_placement",
-      "themes": "friendship, gains, aspirations, groups, elder siblings",
-      "planet_nature": "ego, vitality, authority, father, career, public image"
+      "tags": [
+        "identity",
+        "power",
+        "success",
+        "career",
+        "friends",
+        "groups",
+        "gains",
+        "networking",
+        "wishes"
+      ],
+      "simple": true
     }
   },
   {
     "id": "sun_12h",
-    "text": "Sun in House 12 impacts loss, seclusion, spirituality, foreign lands, isolation, bringing effects related to ego, vitality, authority, father, career, public image. The house themes are influenced by Sun's intrinsic nature and strength in the chart.",
+    "text": "Spiritual path calls you. May live or work alone. Interested in hidden knowledge.",
     "metadata": {
       "planet": "Sun",
       "house": 12,
+      "house_name": "Losses & Spirituality",
       "type": "planet_house_placement",
-      "themes": "loss, seclusion, spirituality, foreign lands, isolation",
-      "planet_nature": "ego, vitality, authority, father, career, public image"
+      "tags": [
+        "identity",
+        "power",
+        "success",
+        "career",
+        "spirituality",
+        "isolation",
+        "foreign",
+        "spiritual"
+      ],
+      "simple": true
     }
   },
   {
     "id": "moon_1h",
-    "text": "Moon in House 1 impacts personality, appearance, health, life direction, bringing effects related to emotions, mind, mother, family, comfort, intuition. The house themes are influenced by Moon's intrinsic nature and strength in the chart.",
+    "text": "Emotional, sensitive, caring. Face changes with feelings. Good memory. May be moody.",
     "metadata": {
       "planet": "Moon",
       "house": 1,
+      "house_name": "Self",
       "type": "planet_house_placement",
-      "themes": "personality, appearance, health, life direction",
-      "planet_nature": "emotions, mind, mother, family, comfort, intuition"
+      "tags": [
+        "emotions",
+        "family",
+        "home",
+        "mind",
+        "appearance",
+        "personality",
+        "health",
+        "identity"
+      ],
+      "simple": true
     }
   },
   {
     "id": "moon_2h",
-    "text": "Moon in House 2 impacts wealth, family, speech, possessions, food, bringing effects related to emotions, mind, mother, family, comfort, intuition. The house themes are influenced by Moon's intrinsic nature and strength in the chart.",
+    "text": "Beautiful voice and face. Likes good food and comfort. Money comes and goes easily.",
     "metadata": {
       "planet": "Moon",
       "house": 2,
+      "house_name": "Money & Family",
       "type": "planet_house_placement",
-      "themes": "wealth, family, speech, possessions, food",
-      "planet_nature": "emotions, mind, mother, family, comfort, intuition"
+      "tags": [
+        "emotions",
+        "family",
+        "home",
+        "mind",
+        "wealth",
+        "money",
+        "family",
+        "food",
+        "possessions"
+      ],
+      "simple": true
     }
   },
   {
     "id": "moon_3h",
-    "text": "Moon in House 3 impacts communication, siblings, short travels, courage, bringing effects related to emotions, mind, mother, family, comfort, intuition. The house themes are influenced by Moon's intrinsic nature and strength in the chart.",
+    "text": "Good writer and storyteller. Close to siblings. Travels easily. Imagination is strong.",
     "metadata": {
       "planet": "Moon",
       "house": 3,
+      "house_name": "Communication",
       "type": "planet_house_placement",
-      "themes": "communication, siblings, short travels, courage",
-      "planet_nature": "emotions, mind, mother, family, comfort, intuition"
+      "tags": [
+        "emotions",
+        "family",
+        "home",
+        "mind",
+        "communication",
+        "siblings",
+        "travel",
+        "writing",
+        "courage"
+      ],
+      "simple": true
     }
   },
   {
     "id": "moon_4h",
-    "text": "Moon in House 4 impacts home, mother, property, peace, foundation, bringing effects related to emotions, mind, mother, family, comfort, intuition. The house themes are influenced by Moon's intrinsic nature and strength in the chart.",
+    "text": "Loves mother very much. Home is very important. Happy family life. Good for real estate.",
     "metadata": {
       "planet": "Moon",
       "house": 4,
+      "house_name": "Home & Mother",
       "type": "planet_house_placement",
-      "themes": "home, mother, property, peace, foundation",
-      "planet_nature": "emotions, mind, mother, family, comfort, intuition"
+      "tags": [
+        "emotions",
+        "family",
+        "home",
+        "mind",
+        "home",
+        "mother",
+        "property",
+        "peace",
+        "family"
+      ],
+      "simple": true
     }
   },
   {
     "id": "moon_5h",
-    "text": "Moon in House 5 impacts children, romance, creativity, intelligence, speculation, bringing effects related to emotions, mind, mother, family, comfort, intuition. The house themes are influenced by Moon's intrinsic nature and strength in the chart.",
+    "text": "Romantic and creative. Good relationship with children. Can be emotional in love.",
     "metadata": {
       "planet": "Moon",
       "house": 5,
+      "house_name": "Love & Children",
       "type": "planet_house_placement",
-      "themes": "children, romance, creativity, intelligence, speculation",
-      "planet_nature": "emotions, mind, mother, family, comfort, intuition"
+      "tags": [
+        "emotions",
+        "family",
+        "home",
+        "mind",
+        "love",
+        "romance",
+        "children",
+        "creativity",
+        "fun"
+      ],
+      "simple": true
     }
   },
   {
     "id": "moon_6h",
-    "text": "Moon in House 6 impacts enemies, health issues, service, competition, bringing effects related to emotions, mind, mother, family, comfort, intuition. The house themes are influenced by Moon's intrinsic nature and strength in the chart.",
+    "text": "Helps others with care. Worries about health too much. Good nurse or caregiver.",
     "metadata": {
       "planet": "Moon",
       "house": 6,
+      "house_name": "Work & Health",
       "type": "planet_house_placement",
-      "themes": "enemies, health issues, service, competition",
-      "planet_nature": "emotions, mind, mother, family, comfort, intuition"
+      "tags": [
+        "emotions",
+        "family",
+        "home",
+        "mind",
+        "work",
+        "job",
+        "health",
+        "enemies",
+        "service"
+      ],
+      "simple": true
     }
   },
   {
     "id": "moon_7h",
-    "text": "Moon in House 7 impacts marriage, partnership, business relations, public, bringing effects related to emotions, mind, mother, family, comfort, intuition. The house themes are influenced by Moon's intrinsic nature and strength in the chart.",
+    "text": "Emotional in marriage. Partner is important. Business with family works well.",
     "metadata": {
       "planet": "Moon",
       "house": 7,
+      "house_name": "Marriage",
       "type": "planet_house_placement",
-      "themes": "marriage, partnership, business relations, public",
-      "planet_nature": "emotions, mind, mother, family, comfort, intuition"
+      "tags": [
+        "emotions",
+        "family",
+        "home",
+        "mind",
+        "marriage",
+        "partner",
+        "business",
+        "contracts"
+      ],
+      "simple": true
     }
   },
   {
     "id": "moon_8h",
-    "text": "Moon in House 8 impacts inheritance, transformation, death, mysteries, shared wealth, bringing effects related to emotions, mind, mother, family, comfort, intuition. The house themes are influenced by Moon's intrinsic nature and strength in the chart.",
+    "text": "Hidden feelings, psychic ability. May inherit. Interested in deep subjects.",
     "metadata": {
       "planet": "Moon",
       "house": 8,
+      "house_name": "Inheritance & Secrets",
       "type": "planet_house_placement",
-      "themes": "inheritance, transformation, death, mysteries, shared wealth",
-      "planet_nature": "emotions, mind, mother, family, comfort, intuition"
+      "tags": [
+        "emotions",
+        "family",
+        "home",
+        "mind",
+        "inheritance",
+        "transformation",
+        "mysteries",
+        "sudden"
+      ],
+      "simple": true
     }
   },
   {
     "id": "moon_9h",
-    "text": "Moon in House 9 impacts father, spirituality, higher learning, travel, dharma, bringing effects related to emotions, mind, mother, family, comfort, intuition. The house themes are influenced by Moon's intrinsic nature and strength in the chart.",
+    "text": "Spiritual and philosophical. Lucky in travels. Values faith and ethics.",
     "metadata": {
       "planet": "Moon",
       "house": 9,
+      "house_name": "Luck & Travel",
       "type": "planet_house_placement",
-      "themes": "father, spirituality, higher learning, travel, dharma",
-      "planet_nature": "emotions, mind, mother, family, comfort, intuition"
+      "tags": [
+        "emotions",
+        "family",
+        "home",
+        "mind",
+        "luck",
+        "learning",
+        "spirituality",
+        "travel",
+        "father"
+      ],
+      "simple": true
     }
   },
   {
     "id": "moon_10h",
-    "text": "Moon in House 10 impacts career, reputation, authority, public image, bringing effects related to emotions, mind, mother, family, comfort, intuition. The house themes are influenced by Moon's intrinsic nature and strength in the chart.",
+    "text": "Popular at work. Shows emotions in public. May change jobs due to feelings.",
     "metadata": {
       "planet": "Moon",
       "house": 10,
+      "house_name": "Career",
       "type": "planet_house_placement",
-      "themes": "career, reputation, authority, public image",
-      "planet_nature": "emotions, mind, mother, family, comfort, intuition"
+      "tags": [
+        "emotions",
+        "family",
+        "home",
+        "mind",
+        "career",
+        "success",
+        "authority",
+        "reputation",
+        "public"
+      ],
+      "simple": true
     }
   },
   {
     "id": "moon_11h",
-    "text": "Moon in House 11 impacts friendship, gains, aspirations, groups, elder siblings, bringing effects related to emotions, mind, mother, family, comfort, intuition. The house themes are influenced by Moon's intrinsic nature and strength in the chart.",
+    "text": "Popular with friends. Cares for group. Money comes through relationships.",
     "metadata": {
       "planet": "Moon",
       "house": 11,
+      "house_name": "Friendships & Gains",
       "type": "planet_house_placement",
-      "themes": "friendship, gains, aspirations, groups, elder siblings",
-      "planet_nature": "emotions, mind, mother, family, comfort, intuition"
+      "tags": [
+        "emotions",
+        "family",
+        "home",
+        "mind",
+        "friends",
+        "groups",
+        "gains",
+        "networking",
+        "wishes"
+      ],
+      "simple": true
     }
   },
   {
     "id": "moon_12h",
-    "text": "Moon in House 12 impacts loss, seclusion, spirituality, foreign lands, isolation, bringing effects related to emotions, mind, mother, family, comfort, intuition. The house themes are influenced by Moon's intrinsic nature and strength in the chart.",
+    "text": "Spiritual, strange dreams. May move to foreign place. Sacrifice for spirituality.",
     "metadata": {
       "planet": "Moon",
       "house": 12,
+      "house_name": "Losses & Spirituality",
       "type": "planet_house_placement",
-      "themes": "loss, seclusion, spirituality, foreign lands, isolation",
-      "planet_nature": "emotions, mind, mother, family, comfort, intuition"
+      "tags": [
+        "emotions",
+        "family",
+        "home",
+        "mind",
+        "spirituality",
+        "isolation",
+        "foreign",
+        "spiritual"
+      ],
+      "simple": true
     }
   },
   {
     "id": "mars_1h",
-    "text": "Mars in House 1 impacts personality, appearance, health, life direction, bringing effects related to action, courage, conflict, siblings, energy, passion. The house themes are influenced by Mars's intrinsic nature and strength in the chart.",
+    "text": "Brave and aggressive. Strong body. Quick to fight or argue. Good for sports, army.",
     "metadata": {
       "planet": "Mars",
       "house": 1,
+      "house_name": "Self",
       "type": "planet_house_placement",
-      "themes": "personality, appearance, health, life direction",
-      "planet_nature": "action, courage, conflict, siblings, energy, passion"
+      "tags": [
+        "action",
+        "courage",
+        "conflict",
+        "sports",
+        "appearance",
+        "personality",
+        "health",
+        "identity"
+      ],
+      "simple": true
     }
   },
   {
     "id": "mars_2h",
-    "text": "Mars in House 2 impacts wealth, family, speech, possessions, food, bringing effects related to action, courage, conflict, siblings, energy, passion. The house themes are influenced by Mars's intrinsic nature and strength in the chart.",
+    "text": "Spends money quickly. Talks harsh. May have teeth problems. Sharp with words.",
     "metadata": {
       "planet": "Mars",
       "house": 2,
+      "house_name": "Money & Family",
       "type": "planet_house_placement",
-      "themes": "wealth, family, speech, possessions, food",
-      "planet_nature": "action, courage, conflict, siblings, energy, passion"
+      "tags": [
+        "action",
+        "courage",
+        "conflict",
+        "sports",
+        "wealth",
+        "money",
+        "family",
+        "food",
+        "possessions"
+      ],
+      "simple": true
     }
   },
   {
     "id": "mars_3h",
-    "text": "Mars in House 3 impacts communication, siblings, short travels, courage, bringing effects related to action, courage, conflict, siblings, energy, passion. The house themes are influenced by Mars's intrinsic nature and strength in the chart.",
+    "text": "Good fighter, bold communication. May argue with siblings. Brave and independent.",
     "metadata": {
       "planet": "Mars",
       "house": 3,
+      "house_name": "Communication",
       "type": "planet_house_placement",
-      "themes": "communication, siblings, short travels, courage",
-      "planet_nature": "action, courage, conflict, siblings, energy, passion"
+      "tags": [
+        "action",
+        "courage",
+        "conflict",
+        "sports",
+        "communication",
+        "siblings",
+        "travel",
+        "writing",
+        "courage"
+      ],
+      "simple": true
     }
   },
   {
     "id": "mars_4h",
-    "text": "Mars in House 4 impacts home, mother, property, peace, foundation, bringing effects related to action, courage, conflict, siblings, energy, passion. The house themes are influenced by Mars's intrinsic nature and strength in the chart.",
+    "text": "Fights with family. May leave home. Land or property disputes. Mother stress.",
     "metadata": {
       "planet": "Mars",
       "house": 4,
+      "house_name": "Home & Mother",
       "type": "planet_house_placement",
-      "themes": "home, mother, property, peace, foundation",
-      "planet_nature": "action, courage, conflict, siblings, energy, passion"
+      "tags": [
+        "action",
+        "courage",
+        "conflict",
+        "sports",
+        "home",
+        "mother",
+        "property",
+        "peace",
+        "family"
+      ],
+      "simple": true
     }
   },
   {
     "id": "mars_5h",
-    "text": "Mars in House 5 impacts children, romance, creativity, intelligence, speculation, bringing effects related to action, courage, conflict, siblings, energy, passion. The house themes are influenced by Mars's intrinsic nature and strength in the chart.",
+    "text": "Passionate in love. May have children trouble. Risk-taker. Loves sports.",
     "metadata": {
       "planet": "Mars",
       "house": 5,
+      "house_name": "Love & Children",
       "type": "planet_house_placement",
-      "themes": "children, romance, creativity, intelligence, speculation",
-      "planet_nature": "action, courage, conflict, siblings, energy, passion"
+      "tags": [
+        "action",
+        "courage",
+        "conflict",
+        "sports",
+        "love",
+        "romance",
+        "children",
+        "creativity",
+        "fun"
+      ],
+      "simple": true
     }
   },
   {
     "id": "mars_6h",
-    "text": "Mars in House 6 impacts enemies, health issues, service, competition, bringing effects related to action, courage, conflict, siblings, energy, passion. The house themes are influenced by Mars's intrinsic nature and strength in the chart.",
+    "text": "Excellent at beating enemies. Strong fight ability. Good health from exercise.",
     "metadata": {
       "planet": "Mars",
       "house": 6,
+      "house_name": "Work & Health",
       "type": "planet_house_placement",
-      "themes": "enemies, health issues, service, competition",
-      "planet_nature": "action, courage, conflict, siblings, energy, passion"
+      "tags": [
+        "action",
+        "courage",
+        "conflict",
+        "sports",
+        "work",
+        "job",
+        "health",
+        "enemies",
+        "service"
+      ],
+      "simple": true
     }
   },
   {
     "id": "mars_7h",
-    "text": "Mars in House 7 impacts marriage, partnership, business relations, public, bringing effects related to action, courage, conflict, siblings, energy, passion. The house themes are influenced by Mars's intrinsic nature and strength in the chart.",
+    "text": "Husband/partner is tough. Marriage has passion but fights. Business conflicts.",
     "metadata": {
       "planet": "Mars",
       "house": 7,
+      "house_name": "Marriage",
       "type": "planet_house_placement",
-      "themes": "marriage, partnership, business relations, public",
-      "planet_nature": "action, courage, conflict, siblings, energy, passion"
+      "tags": [
+        "action",
+        "courage",
+        "conflict",
+        "sports",
+        "marriage",
+        "partner",
+        "business",
+        "contracts"
+      ],
+      "simple": true
     }
   },
   {
     "id": "mars_8h",
-    "text": "Mars in House 8 impacts inheritance, transformation, death, mysteries, shared wealth, bringing effects related to action, courage, conflict, siblings, energy, passion. The house themes are influenced by Mars's intrinsic nature and strength in the chart.",
+    "text": "Interested in forbidden things. Long life but accidents. Intense personality.",
     "metadata": {
       "planet": "Mars",
       "house": 8,
+      "house_name": "Inheritance & Secrets",
       "type": "planet_house_placement",
-      "themes": "inheritance, transformation, death, mysteries, shared wealth",
-      "planet_nature": "action, courage, conflict, siblings, energy, passion"
+      "tags": [
+        "action",
+        "courage",
+        "conflict",
+        "sports",
+        "inheritance",
+        "transformation",
+        "mysteries",
+        "sudden"
+      ],
+      "simple": true
     }
   },
   {
     "id": "mars_9h",
-    "text": "Mars in House 9 impacts father, spirituality, higher learning, travel, dharma, bringing effects related to action, courage, conflict, siblings, energy, passion. The house themes are influenced by Mars's intrinsic nature and strength in the chart.",
+    "text": "Spiritual fighter. Fights for beliefs. May hurt people's feelings with words.",
     "metadata": {
       "planet": "Mars",
       "house": 9,
+      "house_name": "Luck & Travel",
       "type": "planet_house_placement",
-      "themes": "father, spirituality, higher learning, travel, dharma",
-      "planet_nature": "action, courage, conflict, siblings, energy, passion"
+      "tags": [
+        "action",
+        "courage",
+        "conflict",
+        "sports",
+        "luck",
+        "learning",
+        "spirituality",
+        "travel",
+        "father"
+      ],
+      "simple": true
     }
   },
   {
     "id": "mars_10h",
-    "text": "Mars in House 10 impacts career, reputation, authority, public image, bringing effects related to action, courage, conflict, siblings, energy, passion. The house themes are influenced by Mars's intrinsic nature and strength in the chart.",
+    "text": "Great career success. Engineer, doctor, soldier - all good. Boss material.",
     "metadata": {
       "planet": "Mars",
       "house": 10,
+      "house_name": "Career",
       "type": "planet_house_placement",
-      "themes": "career, reputation, authority, public image",
-      "planet_nature": "action, courage, conflict, siblings, energy, passion"
+      "tags": [
+        "action",
+        "courage",
+        "conflict",
+        "sports",
+        "career",
+        "success",
+        "authority",
+        "reputation",
+        "public"
+      ],
+      "simple": true
     }
   },
   {
     "id": "mars_11h",
-    "text": "Mars in House 11 impacts friendship, gains, aspirations, groups, elder siblings, bringing effects related to action, courage, conflict, siblings, energy, passion. The house themes are influenced by Mars's intrinsic nature and strength in the chart.",
+    "text": "Wins over friends. Leads groups. Money through hard effort and success.",
     "metadata": {
       "planet": "Mars",
       "house": 11,
+      "house_name": "Friendships & Gains",
       "type": "planet_house_placement",
-      "themes": "friendship, gains, aspirations, groups, elder siblings",
-      "planet_nature": "action, courage, conflict, siblings, energy, passion"
+      "tags": [
+        "action",
+        "courage",
+        "conflict",
+        "sports",
+        "friends",
+        "groups",
+        "gains",
+        "networking",
+        "wishes"
+      ],
+      "simple": true
     }
   },
   {
     "id": "mars_12h",
-    "text": "Mars in House 12 impacts loss, seclusion, spirituality, foreign lands, isolation, bringing effects related to action, courage, conflict, siblings, energy, passion. The house themes are influenced by Mars's intrinsic nature and strength in the chart.",
+    "text": "Fights with hidden enemy. May live alone. Spiritual warrior energy.",
     "metadata": {
       "planet": "Mars",
       "house": 12,
+      "house_name": "Losses & Spirituality",
       "type": "planet_house_placement",
-      "themes": "loss, seclusion, spirituality, foreign lands, isolation",
-      "planet_nature": "action, courage, conflict, siblings, energy, passion"
+      "tags": [
+        "action",
+        "courage",
+        "conflict",
+        "sports",
+        "spirituality",
+        "isolation",
+        "foreign",
+        "spiritual"
+      ],
+      "simple": true
     }
   },
   {
     "id": "mercury_1h",
-    "text": "Mercury in House 1 impacts personality, appearance, health, life direction, bringing effects related to communication, intellect, commerce, learning, writing. The house themes are influenced by Mercury's intrinsic nature and strength in the chart.",
+    "text": "Smart, talkative, quick learner. Always busy with ideas. May jump between things.",
     "metadata": {
       "planet": "Mercury",
       "house": 1,
+      "house_name": "Self",
       "type": "planet_house_placement",
-      "themes": "personality, appearance, health, life direction",
-      "planet_nature": "communication, intellect, commerce, learning, writing"
+      "tags": [
+        "communication",
+        "learning",
+        "business",
+        "intellect",
+        "appearance",
+        "personality",
+        "health",
+        "identity"
+      ],
+      "simple": true
     }
   },
   {
     "id": "mercury_2h",
-    "text": "Mercury in House 2 impacts wealth, family, speech, possessions, food, bringing effects related to communication, intellect, commerce, learning, writing. The house themes are influenced by Mercury's intrinsic nature and strength in the chart.",
+    "text": "Good trader and businessman. Clever with money. Pretty voice. Good storyteller.",
     "metadata": {
       "planet": "Mercury",
       "house": 2,
+      "house_name": "Money & Family",
       "type": "planet_house_placement",
-      "themes": "wealth, family, speech, possessions, food",
-      "planet_nature": "communication, intellect, commerce, learning, writing"
+      "tags": [
+        "communication",
+        "learning",
+        "business",
+        "intellect",
+        "wealth",
+        "money",
+        "family",
+        "food",
+        "possessions"
+      ],
+      "simple": true
     }
   },
   {
     "id": "mercury_3h",
-    "text": "Mercury in House 3 impacts communication, siblings, short travels, courage, bringing effects related to communication, intellect, commerce, learning, writing. The house themes are influenced by Mercury's intrinsic nature and strength in the chart.",
+    "text": "Natural writer, teacher, speaker. Best placement for Mercury. Excellent communicator.",
     "metadata": {
       "planet": "Mercury",
       "house": 3,
+      "house_name": "Communication",
       "type": "planet_house_placement",
-      "themes": "communication, siblings, short travels, courage",
-      "planet_nature": "communication, intellect, commerce, learning, writing"
+      "tags": [
+        "communication",
+        "learning",
+        "business",
+        "intellect",
+        "communication",
+        "siblings",
+        "travel",
+        "writing",
+        "courage"
+      ],
+      "simple": true
     }
   },
   {
     "id": "mercury_4h",
-    "text": "Mercury in House 4 impacts home, mother, property, peace, foundation, bringing effects related to communication, intellect, commerce, learning, writing. The house themes are influenced by Mercury's intrinsic nature and strength in the chart.",
+    "text": "Smart about property and land. Good brain for home business. Close to mother.",
     "metadata": {
       "planet": "Mercury",
       "house": 4,
+      "house_name": "Home & Mother",
       "type": "planet_house_placement",
-      "themes": "home, mother, property, peace, foundation",
-      "planet_nature": "communication, intellect, commerce, learning, writing"
+      "tags": [
+        "communication",
+        "learning",
+        "business",
+        "intellect",
+        "home",
+        "mother",
+        "property",
+        "peace",
+        "family"
+      ],
+      "simple": true
     }
   },
   {
     "id": "mercury_5h",
-    "text": "Mercury in House 5 impacts children, romance, creativity, intelligence, speculation, bringing effects related to communication, intellect, commerce, learning, writing. The house themes are influenced by Mercury's intrinsic nature and strength in the chart.",
+    "text": "Clever and creative. Good teacher. Children are smart. Can be over-talkative.",
     "metadata": {
       "planet": "Mercury",
       "house": 5,
+      "house_name": "Love & Children",
       "type": "planet_house_placement",
-      "themes": "children, romance, creativity, intelligence, speculation",
-      "planet_nature": "communication, intellect, commerce, learning, writing"
+      "tags": [
+        "communication",
+        "learning",
+        "business",
+        "intellect",
+        "love",
+        "romance",
+        "children",
+        "creativity",
+        "fun"
+      ],
+      "simple": true
     }
   },
   {
     "id": "mercury_6h",
-    "text": "Mercury in House 6 impacts enemies, health issues, service, competition, bringing effects related to communication, intellect, commerce, learning, writing. The house themes are influenced by Mercury's intrinsic nature and strength in the chart.",
+    "text": "Analytical mind, good for detailed work. Medical or technical field good.",
     "metadata": {
       "planet": "Mercury",
       "house": 6,
+      "house_name": "Work & Health",
       "type": "planet_house_placement",
-      "themes": "enemies, health issues, service, competition",
-      "planet_nature": "communication, intellect, commerce, learning, writing"
+      "tags": [
+        "communication",
+        "learning",
+        "business",
+        "intellect",
+        "work",
+        "job",
+        "health",
+        "enemies",
+        "service"
+      ],
+      "simple": true
     }
   },
   {
     "id": "mercury_7h",
-    "text": "Mercury in House 7 impacts marriage, partnership, business relations, public, bringing effects related to communication, intellect, commerce, learning, writing. The house themes are influenced by Mercury's intrinsic nature and strength in the chart.",
+    "text": "Partner is smart. Business partnership good. Marriage through communication.",
     "metadata": {
       "planet": "Mercury",
       "house": 7,
+      "house_name": "Marriage",
       "type": "planet_house_placement",
-      "themes": "marriage, partnership, business relations, public",
-      "planet_nature": "communication, intellect, commerce, learning, writing"
+      "tags": [
+        "communication",
+        "learning",
+        "business",
+        "intellect",
+        "marriage",
+        "partner",
+        "business",
+        "contracts"
+      ],
+      "simple": true
     }
   },
   {
     "id": "mercury_8h",
-    "text": "Mercury in House 8 impacts inheritance, transformation, death, mysteries, shared wealth, bringing effects related to communication, intellect, commerce, learning, writing. The house themes are influenced by Mercury's intrinsic nature and strength in the chart.",
+    "text": "Loves uncovering secrets. Good detective or researcher. Mysterious communication.",
     "metadata": {
       "planet": "Mercury",
       "house": 8,
+      "house_name": "Inheritance & Secrets",
       "type": "planet_house_placement",
-      "themes": "inheritance, transformation, death, mysteries, shared wealth",
-      "planet_nature": "communication, intellect, commerce, learning, writing"
+      "tags": [
+        "communication",
+        "learning",
+        "business",
+        "intellect",
+        "inheritance",
+        "transformation",
+        "mysteries",
+        "sudden"
+      ],
+      "simple": true
     }
   },
   {
     "id": "mercury_9h",
-    "text": "Mercury in House 9 impacts father, spirituality, higher learning, travel, dharma, bringing effects related to communication, intellect, commerce, learning, writing. The house themes are influenced by Mercury's intrinsic nature and strength in the chart.",
+    "text": "Excellent teacher and writer. Spiritual teacher good. Learning brings luck.",
     "metadata": {
       "planet": "Mercury",
       "house": 9,
+      "house_name": "Luck & Travel",
       "type": "planet_house_placement",
-      "themes": "father, spirituality, higher learning, travel, dharma",
-      "planet_nature": "communication, intellect, commerce, learning, writing"
+      "tags": [
+        "communication",
+        "learning",
+        "business",
+        "intellect",
+        "luck",
+        "learning",
+        "spirituality",
+        "travel",
+        "father"
+      ],
+      "simple": true
     }
   },
   {
     "id": "mercury_10h",
-    "text": "Mercury in House 10 impacts career, reputation, authority, public image, bringing effects related to communication, intellect, commerce, learning, writing. The house themes are influenced by Mercury's intrinsic nature and strength in the chart.",
+    "text": "Great career in communication field. Teacher, journalist, sales all good.",
     "metadata": {
       "planet": "Mercury",
       "house": 10,
+      "house_name": "Career",
       "type": "planet_house_placement",
-      "themes": "career, reputation, authority, public image",
-      "planet_nature": "communication, intellect, commerce, learning, writing"
+      "tags": [
+        "communication",
+        "learning",
+        "business",
+        "intellect",
+        "career",
+        "success",
+        "authority",
+        "reputation",
+        "public"
+      ],
+      "simple": true
     }
   },
   {
     "id": "mercury_11h",
-    "text": "Mercury in House 11 impacts friendship, gains, aspirations, groups, elder siblings, bringing effects related to communication, intellect, commerce, learning, writing. The house themes are influenced by Mercury's intrinsic nature and strength in the chart.",
+    "text": "Makes money through talking and learning. Friends help succeed. Network gains.",
     "metadata": {
       "planet": "Mercury",
       "house": 11,
+      "house_name": "Friendships & Gains",
       "type": "planet_house_placement",
-      "themes": "friendship, gains, aspirations, groups, elder siblings",
-      "planet_nature": "communication, intellect, commerce, learning, writing"
+      "tags": [
+        "communication",
+        "learning",
+        "business",
+        "intellect",
+        "friends",
+        "groups",
+        "gains",
+        "networking",
+        "wishes"
+      ],
+      "simple": true
     }
   },
   {
     "id": "mercury_12h",
-    "text": "Mercury in House 12 impacts loss, seclusion, spirituality, foreign lands, isolation, bringing effects related to communication, intellect, commerce, learning, writing. The house themes are influenced by Mercury's intrinsic nature and strength in the chart.",
+    "text": "Secret communication or hidden knowledge. Good researcher. Foreign language good.",
     "metadata": {
       "planet": "Mercury",
       "house": 12,
+      "house_name": "Losses & Spirituality",
       "type": "planet_house_placement",
-      "themes": "loss, seclusion, spirituality, foreign lands, isolation",
-      "planet_nature": "communication, intellect, commerce, learning, writing"
+      "tags": [
+        "communication",
+        "learning",
+        "business",
+        "intellect",
+        "spirituality",
+        "isolation",
+        "foreign",
+        "spiritual"
+      ],
+      "simple": true
     }
   },
   {
     "id": "jupiter_1h",
-    "text": "Jupiter in House 1 impacts personality, appearance, health, life direction, bringing effects related to expansion, wisdom, wealth, luck, spirituality, teaching. The house themes are influenced by Jupiter's intrinsic nature and strength in the chart.",
+    "text": "Very lucky, kind, wise. People trust you. Good health and happiness. Natural teacher.",
     "metadata": {
       "planet": "Jupiter",
       "house": 1,
+      "house_name": "Self",
       "type": "planet_house_placement",
-      "themes": "personality, appearance, health, life direction",
-      "planet_nature": "expansion, wisdom, wealth, luck, spirituality, teaching"
+      "tags": [
+        "luck",
+        "wisdom",
+        "wealth",
+        "growth",
+        "teacher",
+        "appearance",
+        "personality",
+        "health",
+        "identity"
+      ],
+      "simple": true
     }
   },
   {
     "id": "jupiter_2h",
-    "text": "Jupiter in House 2 impacts wealth, family, speech, possessions, food, bringing effects related to expansion, wisdom, wealth, luck, spirituality, teaching. The house themes are influenced by Jupiter's intrinsic nature and strength in the chart.",
+    "text": "Rich and generous. Good food and comfort life. Clear speech. Family happy.",
     "metadata": {
       "planet": "Jupiter",
       "house": 2,
+      "house_name": "Money & Family",
       "type": "planet_house_placement",
-      "themes": "wealth, family, speech, possessions, food",
-      "planet_nature": "expansion, wisdom, wealth, luck, spirituality, teaching"
+      "tags": [
+        "luck",
+        "wisdom",
+        "wealth",
+        "growth",
+        "teacher",
+        "wealth",
+        "money",
+        "family",
+        "food",
+        "possessions"
+      ],
+      "simple": true
     }
   },
   {
     "id": "jupiter_3h",
-    "text": "Jupiter in House 3 impacts communication, siblings, short travels, courage, bringing effects related to expansion, wisdom, wealth, luck, spirituality, teaching. The house themes are influenced by Jupiter's intrinsic nature and strength in the chart.",
+    "text": "Good communication and teaching. Lucky with travel. Siblings help succeed.",
     "metadata": {
       "planet": "Jupiter",
       "house": 3,
+      "house_name": "Communication",
       "type": "planet_house_placement",
-      "themes": "communication, siblings, short travels, courage",
-      "planet_nature": "expansion, wisdom, wealth, luck, spirituality, teaching"
+      "tags": [
+        "luck",
+        "wisdom",
+        "wealth",
+        "growth",
+        "teacher",
+        "communication",
+        "siblings",
+        "travel",
+        "writing",
+        "courage"
+      ],
+      "simple": true
     }
   },
   {
     "id": "jupiter_4h",
-    "text": "Jupiter in House 4 impacts home, mother, property, peace, foundation, bringing effects related to expansion, wisdom, wealth, luck, spirituality, teaching. The house themes are influenced by Jupiter's intrinsic nature and strength in the chart.",
+    "text": "Happy family life. Good mother. Property and land gains. Peace at home.",
     "metadata": {
       "planet": "Jupiter",
       "house": 4,
+      "house_name": "Home & Mother",
       "type": "planet_house_placement",
-      "themes": "home, mother, property, peace, foundation",
-      "planet_nature": "expansion, wisdom, wealth, luck, spirituality, teaching"
+      "tags": [
+        "luck",
+        "wisdom",
+        "wealth",
+        "growth",
+        "teacher",
+        "home",
+        "mother",
+        "property",
+        "peace",
+        "family"
+      ],
+      "simple": true
     }
   },
   {
     "id": "jupiter_5h",
-    "text": "Jupiter in House 5 impacts children, romance, creativity, intelligence, speculation, bringing effects related to expansion, wisdom, wealth, luck, spirituality, teaching. The house themes are influenced by Jupiter's intrinsic nature and strength in the chart.",
+    "text": "Most lucky placement for Jupiter! Creative talent, good children, lucky love.",
     "metadata": {
       "planet": "Jupiter",
       "house": 5,
+      "house_name": "Love & Children",
       "type": "planet_house_placement",
-      "themes": "children, romance, creativity, intelligence, speculation",
-      "planet_nature": "expansion, wisdom, wealth, luck, spirituality, teaching"
+      "tags": [
+        "luck",
+        "wisdom",
+        "wealth",
+        "growth",
+        "teacher",
+        "love",
+        "romance",
+        "children",
+        "creativity",
+        "fun"
+      ],
+      "simple": true
     }
   },
   {
     "id": "jupiter_6h",
-    "text": "Jupiter in House 6 impacts enemies, health issues, service, competition, bringing effects related to expansion, wisdom, wealth, luck, spirituality, teaching. The house themes are influenced by Jupiter's intrinsic nature and strength in the chart.",
+    "text": "Good doctor or helper. Overcomes enemies. Employer kind. Success through caring.",
     "metadata": {
       "planet": "Jupiter",
       "house": 6,
+      "house_name": "Work & Health",
       "type": "planet_house_placement",
-      "themes": "enemies, health issues, service, competition",
-      "planet_nature": "expansion, wisdom, wealth, luck, spirituality, teaching"
+      "tags": [
+        "luck",
+        "wisdom",
+        "wealth",
+        "growth",
+        "teacher",
+        "work",
+        "job",
+        "health",
+        "enemies",
+        "service"
+      ],
+      "simple": true
     }
   },
   {
     "id": "jupiter_7h",
-    "text": "Jupiter in House 7 impacts marriage, partnership, business relations, public, bringing effects related to expansion, wisdom, wealth, luck, spirituality, teaching. The house themes are influenced by Jupiter's intrinsic nature and strength in the chart.",
+    "text": "Good marriage partner. Business success. Mutual understanding. Long-lasting.",
     "metadata": {
       "planet": "Jupiter",
       "house": 7,
+      "house_name": "Marriage",
       "type": "planet_house_placement",
-      "themes": "marriage, partnership, business relations, public",
-      "planet_nature": "expansion, wisdom, wealth, luck, spirituality, teaching"
+      "tags": [
+        "luck",
+        "wisdom",
+        "wealth",
+        "growth",
+        "teacher",
+        "marriage",
+        "partner",
+        "business",
+        "contracts"
+      ],
+      "simple": true
     }
   },
   {
     "id": "jupiter_8h",
-    "text": "Jupiter in House 8 impacts inheritance, transformation, death, mysteries, shared wealth, bringing effects related to expansion, wisdom, wealth, luck, spirituality, teaching. The house themes are influenced by Jupiter's intrinsic nature and strength in the chart.",
+    "text": "Inherits well. Interested in deep learning. Spirituality brings benefits.",
     "metadata": {
       "planet": "Jupiter",
       "house": 8,
+      "house_name": "Inheritance & Secrets",
       "type": "planet_house_placement",
-      "themes": "inheritance, transformation, death, mysteries, shared wealth",
-      "planet_nature": "expansion, wisdom, wealth, luck, spirituality, teaching"
+      "tags": [
+        "luck",
+        "wisdom",
+        "wealth",
+        "growth",
+        "teacher",
+        "inheritance",
+        "transformation",
+        "mysteries",
+        "sudden"
+      ],
+      "simple": true
     }
   },
   {
     "id": "jupiter_9h",
-    "text": "Jupiter in House 9 impacts father, spirituality, higher learning, travel, dharma, bringing effects related to expansion, wisdom, wealth, luck, spirituality, teaching. The house themes are influenced by Jupiter's intrinsic nature and strength in the chart.",
+    "text": "Ultimate luck placement! Spiritual, wise, good father. Teaching brings success.",
     "metadata": {
       "planet": "Jupiter",
       "house": 9,
+      "house_name": "Luck & Travel",
       "type": "planet_house_placement",
-      "themes": "father, spirituality, higher learning, travel, dharma",
-      "planet_nature": "expansion, wisdom, wealth, luck, spirituality, teaching"
+      "tags": [
+        "luck",
+        "wisdom",
+        "wealth",
+        "growth",
+        "teacher",
+        "luck",
+        "learning",
+        "spirituality",
+        "travel",
+        "father"
+      ],
+      "simple": true
     }
   },
   {
     "id": "jupiter_10h",
-    "text": "Jupiter in House 10 impacts career, reputation, authority, public image, bringing effects related to expansion, wisdom, wealth, luck, spirituality, teaching. The house themes are influenced by Jupiter's intrinsic nature and strength in the chart.",
+    "text": "Career success through hard work. Authority comes naturally. Always grows.",
     "metadata": {
       "planet": "Jupiter",
       "house": 10,
+      "house_name": "Career",
       "type": "planet_house_placement",
-      "themes": "career, reputation, authority, public image",
-      "planet_nature": "expansion, wisdom, wealth, luck, spirituality, teaching"
+      "tags": [
+        "luck",
+        "wisdom",
+        "wealth",
+        "growth",
+        "teacher",
+        "career",
+        "success",
+        "authority",
+        "reputation",
+        "public"
+      ],
+      "simple": true
     }
   },
   {
     "id": "jupiter_11h",
-    "text": "Jupiter in House 11 impacts friendship, gains, aspirations, groups, elder siblings, bringing effects related to expansion, wisdom, wealth, luck, spirituality, teaching. The house themes are influenced by Jupiter's intrinsic nature and strength in the chart.",
+    "text": "Money through friends and groups. Wishes come true. Many friends. Popular.",
     "metadata": {
       "planet": "Jupiter",
       "house": 11,
+      "house_name": "Friendships & Gains",
       "type": "planet_house_placement",
-      "themes": "friendship, gains, aspirations, groups, elder siblings",
-      "planet_nature": "expansion, wisdom, wealth, luck, spirituality, teaching"
+      "tags": [
+        "luck",
+        "wisdom",
+        "wealth",
+        "growth",
+        "teacher",
+        "friends",
+        "groups",
+        "gains",
+        "networking",
+        "wishes"
+      ],
+      "simple": true
     }
   },
   {
     "id": "jupiter_12h",
-    "text": "Jupiter in House 12 impacts loss, seclusion, spirituality, foreign lands, isolation, bringing effects related to expansion, wisdom, wealth, luck, spirituality, teaching. The house themes are influenced by Jupiter's intrinsic nature and strength in the chart.",
+    "text": "Spiritual charity. May live abroad. Spiritual learning and growth.",
     "metadata": {
       "planet": "Jupiter",
       "house": 12,
+      "house_name": "Losses & Spirituality",
       "type": "planet_house_placement",
-      "themes": "loss, seclusion, spirituality, foreign lands, isolation",
-      "planet_nature": "expansion, wisdom, wealth, luck, spirituality, teaching"
+      "tags": [
+        "luck",
+        "wisdom",
+        "wealth",
+        "growth",
+        "teacher",
+        "spirituality",
+        "isolation",
+        "foreign",
+        "spiritual"
+      ],
+      "simple": true
     }
   },
   {
     "id": "venus_1h",
-    "text": "Venus in House 1 impacts personality, appearance, health, life direction, bringing effects related to love, beauty, comfort, luxury, arts, pleasure. The house themes are influenced by Venus's intrinsic nature and strength in the chart.",
+    "text": "Beautiful and charming. Gets what wants. Artistic. Love comes easily. May be lazy.",
     "metadata": {
       "planet": "Venus",
       "house": 1,
+      "house_name": "Self",
       "type": "planet_house_placement",
-      "themes": "personality, appearance, health, life direction",
-      "planet_nature": "love, beauty, comfort, luxury, arts, pleasure"
+      "tags": [
+        "love",
+        "beauty",
+        "pleasure",
+        "romance",
+        "arts",
+        "appearance",
+        "personality",
+        "health",
+        "identity"
+      ],
+      "simple": true
     }
   },
   {
     "id": "venus_2h",
-    "text": "Venus in House 2 impacts wealth, family, speech, possessions, food, bringing effects related to love, beauty, comfort, luxury, arts, pleasure. The house themes are influenced by Venus's intrinsic nature and strength in the chart.",
+    "text": "Beautiful face and voice. Loves luxury and good food. Rich through beauty.",
     "metadata": {
       "planet": "Venus",
       "house": 2,
+      "house_name": "Money & Family",
       "type": "planet_house_placement",
-      "themes": "wealth, family, speech, possessions, food",
-      "planet_nature": "love, beauty, comfort, luxury, arts, pleasure"
+      "tags": [
+        "love",
+        "beauty",
+        "pleasure",
+        "romance",
+        "arts",
+        "wealth",
+        "money",
+        "family",
+        "food",
+        "possessions"
+      ],
+      "simple": true
     }
   },
   {
     "id": "venus_3h",
-    "text": "Venus in House 3 impacts communication, siblings, short travels, courage, bringing effects related to love, beauty, comfort, luxury, arts, pleasure. The house themes are influenced by Venus's intrinsic nature and strength in the chart.",
+    "text": "Sweet speaking. Good writer. Artistic talent. Charming communication.",
     "metadata": {
       "planet": "Venus",
       "house": 3,
+      "house_name": "Communication",
       "type": "planet_house_placement",
-      "themes": "communication, siblings, short travels, courage",
-      "planet_nature": "love, beauty, comfort, luxury, arts, pleasure"
+      "tags": [
+        "love",
+        "beauty",
+        "pleasure",
+        "romance",
+        "arts",
+        "communication",
+        "siblings",
+        "travel",
+        "writing",
+        "courage"
+      ],
+      "simple": true
     }
   },
   {
     "id": "venus_4h",
-    "text": "Venus in House 4 impacts home, mother, property, peace, foundation, bringing effects related to love, beauty, comfort, luxury, arts, pleasure. The house themes are influenced by Venus's intrinsic nature and strength in the chart.",
+    "text": "Beautiful home. Happy family. Mother is kind. Loves comfort and luxury.",
     "metadata": {
       "planet": "Venus",
       "house": 4,
+      "house_name": "Home & Mother",
       "type": "planet_house_placement",
-      "themes": "home, mother, property, peace, foundation",
-      "planet_nature": "love, beauty, comfort, luxury, arts, pleasure"
+      "tags": [
+        "love",
+        "beauty",
+        "pleasure",
+        "romance",
+        "arts",
+        "home",
+        "mother",
+        "property",
+        "peace",
+        "family"
+      ],
+      "simple": true
     }
   },
   {
     "id": "venus_5h",
-    "text": "Venus in House 5 impacts children, romance, creativity, intelligence, speculation, bringing effects related to love, beauty, comfort, luxury, arts, pleasure. The house themes are influenced by Venus's intrinsic nature and strength in the chart.",
+    "text": "Most lucky for Venus! Romantic, artistic, creative. Love life very good.",
     "metadata": {
       "planet": "Venus",
       "house": 5,
+      "house_name": "Love & Children",
       "type": "planet_house_placement",
-      "themes": "children, romance, creativity, intelligence, speculation",
-      "planet_nature": "love, beauty, comfort, luxury, arts, pleasure"
+      "tags": [
+        "love",
+        "beauty",
+        "pleasure",
+        "romance",
+        "arts",
+        "love",
+        "romance",
+        "children",
+        "creativity",
+        "fun"
+      ],
+      "simple": true
     }
   },
   {
     "id": "venus_6h",
-    "text": "Venus in House 6 impacts enemies, health issues, service, competition, bringing effects related to love, beauty, comfort, luxury, arts, pleasure. The house themes are influenced by Venus's intrinsic nature and strength in the chart.",
+    "text": "Service work is pleasant. Pets love you. May lack courage. Work happiness.",
     "metadata": {
       "planet": "Venus",
       "house": 6,
+      "house_name": "Work & Health",
       "type": "planet_house_placement",
-      "themes": "enemies, health issues, service, competition",
-      "planet_nature": "love, beauty, comfort, luxury, arts, pleasure"
+      "tags": [
+        "love",
+        "beauty",
+        "pleasure",
+        "romance",
+        "arts",
+        "work",
+        "job",
+        "health",
+        "enemies",
+        "service"
+      ],
+      "simple": true
     }
   },
   {
     "id": "venus_7h",
-    "text": "Venus in House 7 impacts marriage, partnership, business relations, public, bringing effects related to love, beauty, comfort, luxury, arts, pleasure. The house themes are influenced by Venus's intrinsic nature and strength in the chart.",
+    "text": "Excellent marriage! Partner is beautiful or kind. Business success. Happiness.",
     "metadata": {
       "planet": "Venus",
       "house": 7,
+      "house_name": "Marriage",
       "type": "planet_house_placement",
-      "themes": "marriage, partnership, business relations, public",
-      "planet_nature": "love, beauty, comfort, luxury, arts, pleasure"
+      "tags": [
+        "love",
+        "beauty",
+        "pleasure",
+        "romance",
+        "arts",
+        "marriage",
+        "partner",
+        "business",
+        "contracts"
+      ],
+      "simple": true
     }
   },
   {
     "id": "venus_8h",
-    "text": "Venus in House 8 impacts inheritance, transformation, death, mysteries, shared wealth, bringing effects related to love, beauty, comfort, luxury, arts, pleasure. The house themes are influenced by Venus's intrinsic nature and strength in the chart.",
+    "text": "Secret love possible. Magnetic personality. May inherit through marriage.",
     "metadata": {
       "planet": "Venus",
       "house": 8,
+      "house_name": "Inheritance & Secrets",
       "type": "planet_house_placement",
-      "themes": "inheritance, transformation, death, mysteries, shared wealth",
-      "planet_nature": "love, beauty, comfort, luxury, arts, pleasure"
+      "tags": [
+        "love",
+        "beauty",
+        "pleasure",
+        "romance",
+        "arts",
+        "inheritance",
+        "transformation",
+        "mysteries",
+        "sudden"
+      ],
+      "simple": true
     }
   },
   {
     "id": "venus_9h",
-    "text": "Venus in House 9 impacts father, spirituality, higher learning, travel, dharma, bringing effects related to love, beauty, comfort, luxury, arts, pleasure. The house themes are influenced by Venus's intrinsic nature and strength in the chart.",
+    "text": "Loves travel and art. Spiritual beauty. Father kind. Teacher of beauty/arts.",
     "metadata": {
       "planet": "Venus",
       "house": 9,
+      "house_name": "Luck & Travel",
       "type": "planet_house_placement",
-      "themes": "father, spirituality, higher learning, travel, dharma",
-      "planet_nature": "love, beauty, comfort, luxury, arts, pleasure"
+      "tags": [
+        "love",
+        "beauty",
+        "pleasure",
+        "romance",
+        "arts",
+        "luck",
+        "learning",
+        "spirituality",
+        "travel",
+        "father"
+      ],
+      "simple": true
     }
   },
   {
     "id": "venus_10h",
-    "text": "Venus in House 10 impacts career, reputation, authority, public image, bringing effects related to love, beauty, comfort, luxury, arts, pleasure. The house themes are influenced by Venus's intrinsic nature and strength in the chart.",
+    "text": "Success in beauty, entertainment, hospitality field. Public loves you.",
     "metadata": {
       "planet": "Venus",
       "house": 10,
+      "house_name": "Career",
       "type": "planet_house_placement",
-      "themes": "career, reputation, authority, public image",
-      "planet_nature": "love, beauty, comfort, luxury, arts, pleasure"
+      "tags": [
+        "love",
+        "beauty",
+        "pleasure",
+        "romance",
+        "arts",
+        "career",
+        "success",
+        "authority",
+        "reputation",
+        "public"
+      ],
+      "simple": true
     }
   },
   {
     "id": "venus_11h",
-    "text": "Venus in House 11 impacts friendship, gains, aspirations, groups, elder siblings, bringing effects related to love, beauty, comfort, luxury, arts, pleasure. The house themes are influenced by Venus's intrinsic nature and strength in the chart.",
+    "text": "Money through friendship groups. Beautiful friends. Enjoyment through group.",
     "metadata": {
       "planet": "Venus",
       "house": 11,
+      "house_name": "Friendships & Gains",
       "type": "planet_house_placement",
-      "themes": "friendship, gains, aspirations, groups, elder siblings",
-      "planet_nature": "love, beauty, comfort, luxury, arts, pleasure"
+      "tags": [
+        "love",
+        "beauty",
+        "pleasure",
+        "romance",
+        "arts",
+        "friends",
+        "groups",
+        "gains",
+        "networking",
+        "wishes"
+      ],
+      "simple": true
     }
   },
   {
     "id": "venus_12h",
-    "text": "Venus in House 12 impacts loss, seclusion, spirituality, foreign lands, isolation, bringing effects related to love, beauty, comfort, luxury, arts, pleasure. The house themes are influenced by Venus's intrinsic nature and strength in the chart.",
+    "text": "Hidden creative ability. May have secret relationship. Spiritual romanticism.",
     "metadata": {
       "planet": "Venus",
       "house": 12,
+      "house_name": "Losses & Spirituality",
       "type": "planet_house_placement",
-      "themes": "loss, seclusion, spirituality, foreign lands, isolation",
-      "planet_nature": "love, beauty, comfort, luxury, arts, pleasure"
+      "tags": [
+        "love",
+        "beauty",
+        "pleasure",
+        "romance",
+        "arts",
+        "spirituality",
+        "isolation",
+        "foreign",
+        "spiritual"
+      ],
+      "simple": true
     }
   },
   {
     "id": "saturn_1h",
-    "text": "Saturn in House 1 impacts personality, appearance, health, life direction, bringing effects related to restriction, duty, time, discipline, karma, delays. The house themes are influenced by Saturn's intrinsic nature and strength in the chart.",
+    "text": "Serious, responsibility-loving. Looks older. Long hard work pays off. Careful.",
     "metadata": {
       "planet": "Saturn",
       "house": 1,
+      "house_name": "Self",
       "type": "planet_house_placement",
-      "themes": "personality, appearance, health, life direction",
-      "planet_nature": "restriction, duty, time, discipline, karma, delays"
+      "tags": [
+        "discipline",
+        "hard work",
+        "duty",
+        "delays",
+        "lessons",
+        "appearance",
+        "personality",
+        "health",
+        "identity"
+      ],
+      "simple": true
     }
   },
   {
     "id": "saturn_2h",
-    "text": "Saturn in House 2 impacts wealth, family, speech, possessions, food, bringing effects related to restriction, duty, time, discipline, karma, delays. The house themes are influenced by Saturn's intrinsic nature and strength in the chart.",
+    "text": "Slow money gain but solid. Saves carefully. Family may be distant. Talks slow.",
     "metadata": {
       "planet": "Saturn",
       "house": 2,
+      "house_name": "Money & Family",
       "type": "planet_house_placement",
-      "themes": "wealth, family, speech, possessions, food",
-      "planet_nature": "restriction, duty, time, discipline, karma, delays"
+      "tags": [
+        "discipline",
+        "hard work",
+        "duty",
+        "delays",
+        "lessons",
+        "wealth",
+        "money",
+        "family",
+        "food",
+        "possessions"
+      ],
+      "simple": true
     }
   },
   {
     "id": "saturn_3h",
-    "text": "Saturn in House 3 impacts communication, siblings, short travels, courage, bringing effects related to restriction, duty, time, discipline, karma, delays. The house themes are influenced by Saturn's intrinsic nature and strength in the chart.",
+    "text": "Hard work in learning and speaking. Siblings may be problems. Disciplined.",
     "metadata": {
       "planet": "Saturn",
       "house": 3,
+      "house_name": "Communication",
       "type": "planet_house_placement",
-      "themes": "communication, siblings, short travels, courage",
-      "planet_nature": "restriction, duty, time, discipline, karma, delays"
+      "tags": [
+        "discipline",
+        "hard work",
+        "duty",
+        "delays",
+        "lessons",
+        "communication",
+        "siblings",
+        "travel",
+        "writing",
+        "courage"
+      ],
+      "simple": true
     }
   },
   {
     "id": "saturn_4h",
-    "text": "Saturn in House 4 impacts home, mother, property, peace, foundation, bringing effects related to restriction, duty, time, discipline, karma, delays. The house themes are influenced by Saturn's intrinsic nature and strength in the chart.",
+    "text": "Mother may be distant or sick. Home struggles early but gains later. Sad.",
     "metadata": {
       "planet": "Saturn",
       "house": 4,
+      "house_name": "Home & Mother",
       "type": "planet_house_placement",
-      "themes": "home, mother, property, peace, foundation",
-      "planet_nature": "restriction, duty, time, discipline, karma, delays"
+      "tags": [
+        "discipline",
+        "hard work",
+        "duty",
+        "delays",
+        "lessons",
+        "home",
+        "mother",
+        "property",
+        "peace",
+        "family"
+      ],
+      "simple": true
     }
   },
   {
     "id": "saturn_5h",
-    "text": "Saturn in House 5 impacts children, romance, creativity, intelligence, speculation, bringing effects related to restriction, duty, time, discipline, karma, delays. The house themes are influenced by Saturn's intrinsic nature and strength in the chart.",
+    "text": "Late children or few children. Takes relationships seriously. Hard work needed.",
     "metadata": {
       "planet": "Saturn",
       "house": 5,
+      "house_name": "Love & Children",
       "type": "planet_house_placement",
-      "themes": "children, romance, creativity, intelligence, speculation",
-      "planet_nature": "restriction, duty, time, discipline, karma, delays"
+      "tags": [
+        "discipline",
+        "hard work",
+        "duty",
+        "delays",
+        "lessons",
+        "love",
+        "romance",
+        "children",
+        "creativity",
+        "fun"
+      ],
+      "simple": true
     }
   },
   {
     "id": "saturn_6h",
-    "text": "Saturn in House 6 impacts enemies, health issues, service, competition, bringing effects related to restriction, duty, time, discipline, karma, delays. The house themes are influenced by Saturn's intrinsic nature and strength in the chart.",
+    "text": "Excellent at overcoming enemies. Strong discipline. Success through hard work.",
     "metadata": {
       "planet": "Saturn",
       "house": 6,
+      "house_name": "Work & Health",
       "type": "planet_house_placement",
-      "themes": "enemies, health issues, service, competition",
-      "planet_nature": "restriction, duty, time, discipline, karma, delays"
+      "tags": [
+        "discipline",
+        "hard work",
+        "duty",
+        "delays",
+        "lessons",
+        "work",
+        "job",
+        "health",
+        "enemies",
+        "service"
+      ],
+      "simple": true
     }
   },
   {
     "id": "saturn_7h",
-    "text": "Saturn in House 7 impacts marriage, partnership, business relations, public, bringing effects related to restriction, duty, time, discipline, karma, delays. The house themes are influenced by Saturn's intrinsic nature and strength in the chart.",
+    "text": "Late marriage but long-lasting. Serious partner. Business needs hard work.",
     "metadata": {
       "planet": "Saturn",
       "house": 7,
+      "house_name": "Marriage",
       "type": "planet_house_placement",
-      "themes": "marriage, partnership, business relations, public",
-      "planet_nature": "restriction, duty, time, discipline, karma, delays"
+      "tags": [
+        "discipline",
+        "hard work",
+        "duty",
+        "delays",
+        "lessons",
+        "marriage",
+        "partner",
+        "business",
+        "contracts"
+      ],
+      "simple": true
     }
   },
   {
     "id": "saturn_8h",
-    "text": "Saturn in House 8 impacts inheritance, transformation, death, mysteries, shared wealth, bringing effects related to restriction, duty, time, discipline, karma, delays. The house themes are influenced by Saturn's intrinsic nature and strength in the chart.",
+    "text": "Long life despite worries. Slow inheritance. Interest in deep study.",
     "metadata": {
       "planet": "Saturn",
       "house": 8,
+      "house_name": "Inheritance & Secrets",
       "type": "planet_house_placement",
-      "themes": "inheritance, transformation, death, mysteries, shared wealth",
-      "planet_nature": "restriction, duty, time, discipline, karma, delays"
+      "tags": [
+        "discipline",
+        "hard work",
+        "duty",
+        "delays",
+        "lessons",
+        "inheritance",
+        "transformation",
+        "mysteries",
+        "sudden"
+      ],
+      "simple": true
     }
   },
   {
     "id": "saturn_9h",
-    "text": "Saturn in House 9 impacts father, spirituality, higher learning, travel, dharma, bringing effects related to restriction, duty, time, discipline, karma, delays. The house themes are influenced by Saturn's intrinsic nature and strength in the chart.",
+    "text": "Spiritual but strict path. Travel is delayed. Father may be distant.",
     "metadata": {
       "planet": "Saturn",
       "house": 9,
+      "house_name": "Luck & Travel",
       "type": "planet_house_placement",
-      "themes": "father, spirituality, higher learning, travel, dharma",
-      "planet_nature": "restriction, duty, time, discipline, karma, delays"
+      "tags": [
+        "discipline",
+        "hard work",
+        "duty",
+        "delays",
+        "lessons",
+        "luck",
+        "learning",
+        "spirituality",
+        "travel",
+        "father"
+      ],
+      "simple": true
     }
   },
   {
     "id": "saturn_10h",
-    "text": "Saturn in House 10 impacts career, reputation, authority, public image, bringing effects related to restriction, duty, time, discipline, karma, delays. The house themes are influenced by Saturn's intrinsic nature and strength in the chart.",
+    "text": "Ultimate success! Slow climb to top but reaches very high. Very lucky placement.",
     "metadata": {
       "planet": "Saturn",
       "house": 10,
+      "house_name": "Career",
       "type": "planet_house_placement",
-      "themes": "career, reputation, authority, public image",
-      "planet_nature": "restriction, duty, time, discipline, karma, delays"
+      "tags": [
+        "discipline",
+        "hard work",
+        "duty",
+        "delays",
+        "lessons",
+        "career",
+        "success",
+        "authority",
+        "reputation",
+        "public"
+      ],
+      "simple": true
     }
   },
   {
     "id": "saturn_11h",
-    "text": "Saturn in House 11 impacts friendship, gains, aspirations, groups, elder siblings, bringing effects related to restriction, duty, time, discipline, karma, delays. The house themes are influenced by Saturn's intrinsic nature and strength in the chart.",
+    "text": "Slow gains but solid. Friends become mentor. Responsibility increases.",
     "metadata": {
       "planet": "Saturn",
       "house": 11,
+      "house_name": "Friendships & Gains",
       "type": "planet_house_placement",
-      "themes": "friendship, gains, aspirations, groups, elder siblings",
-      "planet_nature": "restriction, duty, time, discipline, karma, delays"
+      "tags": [
+        "discipline",
+        "hard work",
+        "duty",
+        "delays",
+        "lessons",
+        "friends",
+        "groups",
+        "gains",
+        "networking",
+        "wishes"
+      ],
+      "simple": true
     }
   },
   {
     "id": "saturn_12h",
-    "text": "Saturn in House 12 impacts loss, seclusion, spirituality, foreign lands, isolation, bringing effects related to restriction, duty, time, discipline, karma, delays. The house themes are influenced by Saturn's intrinsic nature and strength in the chart.",
+    "text": "Spiritual discipline. May isolate. Meditation and research good. Sacrifice.",
     "metadata": {
       "planet": "Saturn",
       "house": 12,
+      "house_name": "Losses & Spirituality",
       "type": "planet_house_placement",
-      "themes": "loss, seclusion, spirituality, foreign lands, isolation",
-      "planet_nature": "restriction, duty, time, discipline, karma, delays"
+      "tags": [
+        "discipline",
+        "hard work",
+        "duty",
+        "delays",
+        "lessons",
+        "spirituality",
+        "isolation",
+        "foreign",
+        "spiritual"
+      ],
+      "simple": true
     }
   },
   {
     "id": "rahu_1h",
-    "text": "Rahu in House 1 impacts personality, appearance, health, life direction, bringing effects related to obsession, worldly desires, illusion, unconventional. The house themes are influenced by Rahu's intrinsic nature and strength in the chart.",
+    "text": "Wants recognition badly. Unusual personality. Confused about identity.",
     "metadata": {
       "planet": "Rahu",
       "house": 1,
+      "house_name": "Self",
       "type": "planet_house_placement",
-      "themes": "personality, appearance, health, life direction",
-      "planet_nature": "obsession, worldly desires, illusion, unconventional"
+      "tags": [
+        "ambition",
+        "desire",
+        "unusual",
+        "obsession",
+        "appearance",
+        "personality",
+        "health",
+        "identity"
+      ],
+      "simple": true
     }
   },
   {
     "id": "rahu_2h",
-    "text": "Rahu in House 2 impacts wealth, family, speech, possessions, food, bringing effects related to obsession, worldly desires, illusion, unconventional. The house themes are influenced by Rahu's intrinsic nature and strength in the chart.",
+    "text": "Wants money desperately. Deceptive in speech. Money comes and goes.",
     "metadata": {
       "planet": "Rahu",
       "house": 2,
+      "house_name": "Money & Family",
       "type": "planet_house_placement",
-      "themes": "wealth, family, speech, possessions, food",
-      "planet_nature": "obsession, worldly desires, illusion, unconventional"
+      "tags": [
+        "ambition",
+        "desire",
+        "unusual",
+        "obsession",
+        "wealth",
+        "money",
+        "family",
+        "food",
+        "possessions"
+      ],
+      "simple": true
     }
   },
   {
     "id": "rahu_3h",
-    "text": "Rahu in House 3 impacts communication, siblings, short travels, courage, bringing effects related to obsession, worldly desires, illusion, unconventional. The house themes are influenced by Rahu's intrinsic nature and strength in the chart.",
+    "text": "Obsessed with talking and travel. Deceptive communication. Lies possible.",
     "metadata": {
       "planet": "Rahu",
       "house": 3,
+      "house_name": "Communication",
       "type": "planet_house_placement",
-      "themes": "communication, siblings, short travels, courage",
-      "planet_nature": "obsession, worldly desires, illusion, unconventional"
+      "tags": [
+        "ambition",
+        "desire",
+        "unusual",
+        "obsession",
+        "communication",
+        "siblings",
+        "travel",
+        "writing",
+        "courage"
+      ],
+      "simple": true
     }
   },
   {
     "id": "rahu_4h",
-    "text": "Rahu in House 4 impacts home, mother, property, peace, foundation, bringing effects related to obsession, worldly desires, illusion, unconventional. The house themes are influenced by Rahu's intrinsic nature and strength in the chart.",
+    "text": "Wants property badly. Mother problems. Home life unsettled. Adoption possible.",
     "metadata": {
       "planet": "Rahu",
       "house": 4,
+      "house_name": "Home & Mother",
       "type": "planet_house_placement",
-      "themes": "home, mother, property, peace, foundation",
-      "planet_nature": "obsession, worldly desires, illusion, unconventional"
+      "tags": [
+        "ambition",
+        "desire",
+        "unusual",
+        "obsession",
+        "home",
+        "mother",
+        "property",
+        "peace",
+        "family"
+      ],
+      "simple": true
     }
   },
   {
     "id": "rahu_5h",
-    "text": "Rahu in House 5 impacts children, romance, creativity, intelligence, speculation, bringing effects related to obsession, worldly desires, illusion, unconventional. The house themes are influenced by Rahu's intrinsic nature and strength in the chart.",
+    "text": "Desperate for love. May not have children. Risky behavior. Gambling bad.",
     "metadata": {
       "planet": "Rahu",
       "house": 5,
+      "house_name": "Love & Children",
       "type": "planet_house_placement",
-      "themes": "children, romance, creativity, intelligence, speculation",
-      "planet_nature": "obsession, worldly desires, illusion, unconventional"
+      "tags": [
+        "ambition",
+        "desire",
+        "unusual",
+        "obsession",
+        "love",
+        "romance",
+        "children",
+        "creativity",
+        "fun"
+      ],
+      "simple": true
     }
   },
   {
     "id": "rahu_6h",
-    "text": "Rahu in House 6 impacts enemies, health issues, service, competition, bringing effects related to obsession, worldly desires, illusion, unconventional. The house themes are influenced by Rahu's intrinsic nature and strength in the chart.",
+    "text": "Defeats enemies. May lie and cheat. Enemies through deception.",
     "metadata": {
       "planet": "Rahu",
       "house": 6,
+      "house_name": "Work & Health",
       "type": "planet_house_placement",
-      "themes": "enemies, health issues, service, competition",
-      "planet_nature": "obsession, worldly desires, illusion, unconventional"
+      "tags": [
+        "ambition",
+        "desire",
+        "unusual",
+        "obsession",
+        "work",
+        "job",
+        "health",
+        "enemies",
+        "service"
+      ],
+      "simple": true
     }
   },
   {
     "id": "rahu_7h",
-    "text": "Rahu in House 7 impacts marriage, partnership, business relations, public, bringing effects related to obsession, worldly desires, illusion, unconventional. The house themes are influenced by Rahu's intrinsic nature and strength in the chart.",
+    "text": "Deceptive partner or foreign marriage. Multiple marriages possible. Drama.",
     "metadata": {
       "planet": "Rahu",
       "house": 7,
+      "house_name": "Marriage",
       "type": "planet_house_placement",
-      "themes": "marriage, partnership, business relations, public",
-      "planet_nature": "obsession, worldly desires, illusion, unconventional"
+      "tags": [
+        "ambition",
+        "desire",
+        "unusual",
+        "obsession",
+        "marriage",
+        "partner",
+        "business",
+        "contracts"
+      ],
+      "simple": true
     }
   },
   {
     "id": "rahu_8h",
-    "text": "Rahu in House 8 impacts inheritance, transformation, death, mysteries, shared wealth, bringing effects related to obsession, worldly desires, illusion, unconventional. The house themes are influenced by Rahu's intrinsic nature and strength in the chart.",
+    "text": "Inheritance disputes. Secrets and deception. Sudden life changes.",
     "metadata": {
       "planet": "Rahu",
       "house": 8,
+      "house_name": "Inheritance & Secrets",
       "type": "planet_house_placement",
-      "themes": "inheritance, transformation, death, mysteries, shared wealth",
-      "planet_nature": "obsession, worldly desires, illusion, unconventional"
+      "tags": [
+        "ambition",
+        "desire",
+        "unusual",
+        "obsession",
+        "inheritance",
+        "transformation",
+        "mysteries",
+        "sudden"
+      ],
+      "simple": true
     }
   },
   {
     "id": "rahu_9h",
-    "text": "Rahu in House 9 impacts father, spirituality, higher learning, travel, dharma, bringing effects related to obsession, worldly desires, illusion, unconventional. The house themes are influenced by Rahu's intrinsic nature and strength in the chart.",
+    "text": "Wrong spiritual path. Fake guru. Confusing beliefs. Travel for gain.",
     "metadata": {
       "planet": "Rahu",
       "house": 9,
+      "house_name": "Luck & Travel",
       "type": "planet_house_placement",
-      "themes": "father, spirituality, higher learning, travel, dharma",
-      "planet_nature": "obsession, worldly desires, illusion, unconventional"
+      "tags": [
+        "ambition",
+        "desire",
+        "unusual",
+        "obsession",
+        "luck",
+        "learning",
+        "spirituality",
+        "travel",
+        "father"
+      ],
+      "simple": true
     }
   },
   {
     "id": "rahu_10h",
-    "text": "Rahu in House 10 impacts career, reputation, authority, public image, bringing effects related to obsession, worldly desires, illusion, unconventional. The house themes are influenced by Rahu's intrinsic nature and strength in the chart.",
+    "text": "Career success through manipulation. Reputation crises. Sudden rise and fall.",
     "metadata": {
       "planet": "Rahu",
       "house": 10,
+      "house_name": "Career",
       "type": "planet_house_placement",
-      "themes": "career, reputation, authority, public image",
-      "planet_nature": "obsession, worldly desires, illusion, unconventional"
+      "tags": [
+        "ambition",
+        "desire",
+        "unusual",
+        "obsession",
+        "career",
+        "success",
+        "authority",
+        "reputation",
+        "public"
+      ],
+      "simple": true
     }
   },
   {
     "id": "rahu_11h",
-    "text": "Rahu in House 11 impacts friendship, gains, aspirations, groups, elder siblings, bringing effects related to obsession, worldly desires, illusion, unconventional. The house themes are influenced by Rahu's intrinsic nature and strength in the chart.",
+    "text": "Gains through deception. Wrong friends. Network works but with lies.",
     "metadata": {
       "planet": "Rahu",
       "house": 11,
+      "house_name": "Friendships & Gains",
       "type": "planet_house_placement",
-      "themes": "friendship, gains, aspirations, groups, elder siblings",
-      "planet_nature": "obsession, worldly desires, illusion, unconventional"
+      "tags": [
+        "ambition",
+        "desire",
+        "unusual",
+        "obsession",
+        "friends",
+        "groups",
+        "gains",
+        "networking",
+        "wishes"
+      ],
+      "simple": true
     }
   },
   {
     "id": "rahu_12h",
-    "text": "Rahu in House 12 impacts loss, seclusion, spirituality, foreign lands, isolation, bringing effects related to obsession, worldly desires, illusion, unconventional. The house themes are influenced by Rahu's intrinsic nature and strength in the chart.",
+    "text": "Imprisonment or hospital possible. Addiction risk. Foreign settlement.",
     "metadata": {
       "planet": "Rahu",
       "house": 12,
+      "house_name": "Losses & Spirituality",
       "type": "planet_house_placement",
-      "themes": "loss, seclusion, spirituality, foreign lands, isolation",
-      "planet_nature": "obsession, worldly desires, illusion, unconventional"
+      "tags": [
+        "ambition",
+        "desire",
+        "unusual",
+        "obsession",
+        "spirituality",
+        "isolation",
+        "foreign",
+        "spiritual"
+      ],
+      "simple": true
     }
   },
   {
     "id": "ketu_1h",
-    "text": "Ketu in House 1 impacts personality, appearance, health, life direction, bringing effects related to detachment, spirituality, loss, mysticism, transformation. The house themes are influenced by Ketu's intrinsic nature and strength in the chart.",
+    "text": "Spiritual but confused. Accidents possible. Not interested in worldly success.",
     "metadata": {
       "planet": "Ketu",
       "house": 1,
+      "house_name": "Self",
       "type": "planet_house_placement",
-      "themes": "personality, appearance, health, life direction",
-      "planet_nature": "detachment, spirituality, loss, mysticism, transformation"
+      "tags": [
+        "spirituality",
+        "detachment",
+        "mystical",
+        "karma",
+        "appearance",
+        "personality",
+        "health",
+        "identity"
+      ],
+      "simple": true
     }
   },
   {
     "id": "ketu_2h",
-    "text": "Ketu in House 2 impacts wealth, family, speech, possessions, food, bringing effects related to detachment, spirituality, loss, mysticism, transformation. The house themes are influenced by Ketu's intrinsic nature and strength in the chart.",
+    "text": "Hard to earn money. Loss and poverty. Poor speech. No family comfort.",
     "metadata": {
       "planet": "Ketu",
       "house": 2,
+      "house_name": "Money & Family",
       "type": "planet_house_placement",
-      "themes": "wealth, family, speech, possessions, food",
-      "planet_nature": "detachment, spirituality, loss, mysticism, transformation"
+      "tags": [
+        "spirituality",
+        "detachment",
+        "mystical",
+        "karma",
+        "wealth",
+        "money",
+        "family",
+        "food",
+        "possessions"
+      ],
+      "simple": true
     }
   },
   {
     "id": "ketu_3h",
-    "text": "Ketu in House 3 impacts communication, siblings, short travels, courage, bringing effects related to detachment, spirituality, loss, mysticism, transformation. The house themes are influenced by Ketu's intrinsic nature and strength in the chart.",
+    "text": "Not interested in communication. Spiritual learning. Sibling separation.",
     "metadata": {
       "planet": "Ketu",
       "house": 3,
+      "house_name": "Communication",
       "type": "planet_house_placement",
-      "themes": "communication, siblings, short travels, courage",
-      "planet_nature": "detachment, spirituality, loss, mysticism, transformation"
+      "tags": [
+        "spirituality",
+        "detachment",
+        "mystical",
+        "karma",
+        "communication",
+        "siblings",
+        "travel",
+        "writing",
+        "courage"
+      ],
+      "simple": true
     }
   },
   {
     "id": "ketu_4h",
-    "text": "Ketu in House 4 impacts home, mother, property, peace, foundation, bringing effects related to detachment, spirituality, loss, mysticism, transformation. The house themes are influenced by Ketu's intrinsic nature and strength in the chart.",
+    "text": "Separated from mother. Moves often. Spiritual than family focus.",
     "metadata": {
       "planet": "Ketu",
       "house": 4,
+      "house_name": "Home & Mother",
       "type": "planet_house_placement",
-      "themes": "home, mother, property, peace, foundation",
-      "planet_nature": "detachment, spirituality, loss, mysticism, transformation"
+      "tags": [
+        "spirituality",
+        "detachment",
+        "mystical",
+        "karma",
+        "home",
+        "mother",
+        "property",
+        "peace",
+        "family"
+      ],
+      "simple": true
     }
   },
   {
     "id": "ketu_5h",
-    "text": "Ketu in House 5 impacts children, romance, creativity, intelligence, speculation, bringing effects related to detachment, spirituality, loss, mysticism, transformation. The house themes are influenced by Ketu's intrinsic nature and strength in the chart.",
+    "text": "No children or few. Not interested in romance. Spiritual expression.",
     "metadata": {
       "planet": "Ketu",
       "house": 5,
+      "house_name": "Love & Children",
       "type": "planet_house_placement",
-      "themes": "children, romance, creativity, intelligence, speculation",
-      "planet_nature": "detachment, spirituality, loss, mysticism, transformation"
+      "tags": [
+        "spirituality",
+        "detachment",
+        "mystical",
+        "karma",
+        "love",
+        "romance",
+        "children",
+        "creativity",
+        "fun"
+      ],
+      "simple": true
     }
   },
   {
     "id": "ketu_6h",
-    "text": "Ketu in House 6 impacts enemies, health issues, service, competition, bringing effects related to detachment, spirituality, loss, mysticism, transformation. The house themes are influenced by Ketu's intrinsic nature and strength in the chart.",
+    "text": "Detached from enemies. Healing ability. Mysterious illness possible.",
     "metadata": {
       "planet": "Ketu",
       "house": 6,
+      "house_name": "Work & Health",
       "type": "planet_house_placement",
-      "themes": "enemies, health issues, service, competition",
-      "planet_nature": "detachment, spirituality, loss, mysticism, transformation"
+      "tags": [
+        "spirituality",
+        "detachment",
+        "mystical",
+        "karma",
+        "work",
+        "job",
+        "health",
+        "enemies",
+        "service"
+      ],
+      "simple": true
     }
   },
   {
     "id": "ketu_7h",
-    "text": "Ketu in House 7 impacts marriage, partnership, business relations, public, bringing effects related to detachment, spirituality, loss, mysticism, transformation. The house themes are influenced by Ketu's intrinsic nature and strength in the chart.",
+    "text": "Separated from partner. Not interested in marriage. Spiritual union.",
     "metadata": {
       "planet": "Ketu",
       "house": 7,
+      "house_name": "Marriage",
       "type": "planet_house_placement",
-      "themes": "marriage, partnership, business relations, public",
-      "planet_nature": "detachment, spirituality, loss, mysticism, transformation"
+      "tags": [
+        "spirituality",
+        "detachment",
+        "mystical",
+        "karma",
+        "marriage",
+        "partner",
+        "business",
+        "contracts"
+      ],
+      "simple": true
     }
   },
   {
     "id": "ketu_8h",
-    "text": "Ketu in House 8 impacts inheritance, transformation, death, mysteries, shared wealth, bringing effects related to detachment, spirituality, loss, mysticism, transformation. The house themes are influenced by Ketu's intrinsic nature and strength in the chart.",
+    "text": "Deep researcher. Occult knowledge. Long life with transformation.",
     "metadata": {
       "planet": "Ketu",
       "house": 8,
+      "house_name": "Inheritance & Secrets",
       "type": "planet_house_placement",
-      "themes": "inheritance, transformation, death, mysteries, shared wealth",
-      "planet_nature": "detachment, spirituality, loss, mysticism, transformation"
+      "tags": [
+        "spirituality",
+        "detachment",
+        "mystical",
+        "karma",
+        "inheritance",
+        "transformation",
+        "mysteries",
+        "sudden"
+      ],
+      "simple": true
     }
   },
   {
     "id": "ketu_9h",
-    "text": "Ketu in House 9 impacts father, spirituality, higher learning, travel, dharma, bringing effects related to detachment, spirituality, loss, mysticism, transformation. The house themes are influenced by Ketu's intrinsic nature and strength in the chart.",
+    "text": "Spiritual wisdom from past. Father separation. Enlightenment seeking.",
     "metadata": {
       "planet": "Ketu",
       "house": 9,
+      "house_name": "Luck & Travel",
       "type": "planet_house_placement",
-      "themes": "father, spirituality, higher learning, travel, dharma",
-      "planet_nature": "detachment, spirituality, loss, mysticism, transformation"
+      "tags": [
+        "spirituality",
+        "detachment",
+        "mystical",
+        "karma",
+        "luck",
+        "learning",
+        "spirituality",
+        "travel",
+        "father"
+      ],
+      "simple": true
     }
   },
   {
     "id": "ketu_10h",
-    "text": "Ketu in House 10 impacts career, reputation, authority, public image, bringing effects related to detachment, spirituality, loss, mysticism, transformation. The house themes are influenced by Ketu's intrinsic nature and strength in the chart.",
+    "text": "Not interested in fame. Spiritual leadership. Career changes.",
     "metadata": {
       "planet": "Ketu",
       "house": 10,
+      "house_name": "Career",
       "type": "planet_house_placement",
-      "themes": "career, reputation, authority, public image",
-      "planet_nature": "detachment, spirituality, loss, mysticism, transformation"
+      "tags": [
+        "spirituality",
+        "detachment",
+        "mystical",
+        "karma",
+        "career",
+        "success",
+        "authority",
+        "reputation",
+        "public"
+      ],
+      "simple": true
     }
   },
   {
     "id": "ketu_11h",
-    "text": "Ketu in House 11 impacts friendship, gains, aspirations, groups, elder siblings, bringing effects related to detachment, spirituality, loss, mysticism, transformation. The house themes are influenced by Ketu's intrinsic nature and strength in the chart.",
+    "text": "No interest in social gains. Spiritual friends. Detached from group.",
     "metadata": {
       "planet": "Ketu",
       "house": 11,
+      "house_name": "Friendships & Gains",
       "type": "planet_house_placement",
-      "themes": "friendship, gains, aspirations, groups, elder siblings",
-      "planet_nature": "detachment, spirituality, loss, mysticism, transformation"
+      "tags": [
+        "spirituality",
+        "detachment",
+        "mystical",
+        "karma",
+        "friends",
+        "groups",
+        "gains",
+        "networking",
+        "wishes"
+      ],
+      "simple": true
     }
   },
   {
     "id": "ketu_12h",
-    "text": "Ketu in House 12 impacts loss, seclusion, spirituality, foreign lands, isolation, bringing effects related to detachment, spirituality, loss, mysticism, transformation. The house themes are influenced by Ketu's intrinsic nature and strength in the chart.",
+    "text": "Maximum spirituality. Monastery life possible. Healing through surrender.",
     "metadata": {
       "planet": "Ketu",
       "house": 12,
+      "house_name": "Losses & Spirituality",
       "type": "planet_house_placement",
-      "themes": "loss, seclusion, spirituality, foreign lands, isolation",
-      "planet_nature": "detachment, spirituality, loss, mysticism, transformation"
+      "tags": [
+        "spirituality",
+        "detachment",
+        "mystical",
+        "karma",
+        "spirituality",
+        "isolation",
+        "foreign",
+        "spiritual"
+      ],
+      "simple": true
     }
   }
 ]
